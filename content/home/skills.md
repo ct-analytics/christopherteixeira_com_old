@@ -49,6 +49,24 @@ subtitle = ""
   icon_pack = "fas"
   name = "SQL"
   description = "100%"
+  
+[[feature]]
+  icon = "baseball-ball"
+  icon_pack = "fas"
+  name = "Baseball"
+  description = "100%"
+  
+[[feature]]
+  icon = "football-ball"
+  icon_pack = "fas"
+  name = "Football"
+  description = "75%"
+  
+[[feature]]
+  icon = "running"
+  icon_pack = "fas"
+  name = "Running"
+  description = "50%"
 
 # Uncomment to use emoji icons.
 # [[feature]]
