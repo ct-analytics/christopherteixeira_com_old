@@ -1,0 +1,61 @@
+---
+title: "Similar Players in MLB: Calculating Similarity"
+author: "Christopher Teixeira"
+date: 2019-11-10
+categories: []
+tags: ["R"]
+---
+
+```{r global_options, include=FALSE}
+knitr::opts_chunk$set(echo=TRUE,
+                      warning=FALSE, 
+                      message=FALSE)
+```
+
+As I mentioned in Similar Players in MLB, I want to be able to see how similar players can be. I decided to take a somewhat different approach by looking at how a player’s career compares against another player’s career. In order to put things in terms of a career, I didn’t want to simply sum up their statistics or normalize given the number of years they played. I wanted to be able to compare a player’s second year against another player’s second year. This isn’t a simple problem though.
+
+First part of the problem, what statistics do you use to compare two different players? Using the [Lahman Database](http://www.seanlahman.com/baseball-archive/statistics/), I had easy access to the common statistics like games played, at bats, runs scored, hits, doubles, triples, etc. However, this database doesn’t simply just have the counting stats by year. It is a compiled record of stats by league and team. In order to simplify the data collection, I aggregated the information up to the combination of player and year.
+
+Second part of the problem, how accurate is it to compare a player’s first year against another player’s first year? Is it possible to correct for a player being sent to the majors a little early or taking a couple years to develop? This means being able to compare a player’s first year against another player’s first, second, or perhaps third year to determine the closest match. How do you adjust for a player’s third year against a player’s first year? While I use SAS at work, I don’t have access to it’s functions at home. I noticed that SAS’s [PROC SIMILARITY](http://support.sas.com/documentation/cdl/en/etsug/60372/HTML/default/viewer.htm#similarity_toc.htm) has the capability for being able to calculate the minimum distance between two time series. Consider the example below of two player’s games.
+
+```{r player_graph, echo=FALSE, message=FALSE}
+suppressPackageStartupMessages( suppressWarnings( library(Lahman) ))
+suppressPackageStartupMessages( suppressWarnings( library(dplyr) ))
+
+data(Batting)
+data(Master)
+df <- Batting %>%
+  filter(playerID == "bettsmo01" | playerID == "troutmi01") %>%
+  left_join(Master) %>%
+  select(nameFirst,nameLast,yearID,G) %>%
+  mutate(playerName=paste(nameFirst,nameLast))
+
+# DT::datatable(df)
+
+suppressPackageStartupMessages( suppressWarnings( library(ggplot2) ))
+suppressPackageStartupMessages( suppressWarnings( library(ggthemes) ))
+
+
+ggplot(df,aes(x=yearID, y=G)) + geom_line() + facet_grid(rows="playerName") + theme_hc() + xlab("") + ylab("Games Played")
+
+
+```
+
+Note that they’re not the exact same, but you can see the similarity between the two. Using dynamic programming, you can find the minimum distance between these two time series. Distance between two time series can be a simple euclidean distance or something slightly different. However, I don’t have access to SAS at home. Luckily enough, I was able to find a package in R that has this capability. Using the [“dtw” package](https://cran.r-project.org/web/packages/dtw/index.html), you can easily calculate the distance between two different time series. Applying this package to the above example, gives you the results below. This three-way plot shows each player’s data in the margins and how each point maps. The closer the plot is to Y=X implies the how close the mapping of one series of data is to another.
+
+```{r comparison, echo=F}
+
+suppressPackageStartupMessages( suppressWarnings( library(dtw) ))
+
+dtwPlotThreeWay(
+  dtw(df$G[df$playerName=="Mike Trout"],
+      df$G[df$playerName=="Mookie Betts"],
+      keep=T),
+  xlab = "Mike Trout",
+  ylab = "Mookie Betts",
+  main = ""
+)
+
+```
+
+The next problem is how to use all of this similarity to figure out what players are actually similar to each other. Keep an eye out for my next blog on using Social Network Analysis to cluster these players together and incorporating more than just Games Played.

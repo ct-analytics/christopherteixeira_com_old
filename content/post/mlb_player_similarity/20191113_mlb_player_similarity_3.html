@@ -1,0 +1,39 @@
+---
+title: "Similar Players in MLB: Comparison against Baseball-Reference"
+author: "Christopher Teixeira"
+date: 2019-11-13
+categories: []
+tags: ["R"]
+---
+
+
+
+<p>As many of you are aware, Baseball-Reference calculates a <a href="http://www.baseball-reference.com/about/similarity.shtml">similarity score</a> for each player against other players. Although this is an accepted way to calculate the similarity between two players, I wanted to see if my methodology compares. I ran my methodology for Hank Aaron (someone we all know and can understand the comparisons) and compared the list I got against the list Baseball-Reference posted. First, let’s look at what Baseball-Reference has:</p>
+<ol style="list-style-type: decimal">
+<li>Willie Mays (782)</li>
+<li>Barry Bonds (748)</li>
+<li>Frank Robinson (667)</li>
+<li>Stan Musial (666)</li>
+<li>Babe Ruth (645)</li>
+<li>Ken Griffey (629)</li>
+<li>Carl Yastrzemski (627)</li>
+<li>Rafael Palmeiro (611)</li>
+<li>Alex Rodriguez (610)</li>
+<li>Mel Ott (602)</li>
+</ol>
+<p>I don’t think anyone would argue with any of these players. However, what’s the list of players I came up with? Well, here they are:</p>
+<ul>
+<li>Willie Mays</li>
+<li>Frank Robinson</li>
+<li>Al Kaline</li>
+<li>Ernie Banks</li>
+<li>Billy Williams</li>
+<li>Brooks Robinson</li>
+<li>Roberto Clemente</li>
+<li>Ken Boyer</li>
+<li>Norm Cash</li>
+<li>Carl Yastrzemski</li>
+</ul>
+<p>What’s interesting about my list is there are certainly players that don’t seem comparable to Hank Aaron. The question then becomes, how did they make it here? Quickly looking at the numbers you can see that I included more statistics for comparison than Baseball-Reference. In addition, I used a weighting scheme for comparing various statistics. Here’s the full list of comparisons. Note that the lower the number, the closer they are in comparison.</p>
+<p>[insert table]</p>
+<p>So which one is right? I think its easy to say that Baseball-Reference seems more accurate, but I am continuously looking to improve this methodology and see how that impacts the results. Keep tuned for the final version of the code and methodology.</p>
