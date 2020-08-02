@@ -37,7 +37,9 @@
 &lt;p&gt;Various email clients and services might have slightly different steps, but I like using Spark for managing my many inboxes. They give you several options, from setting up a new 
 &lt;a href=&#34;https://sparkmailapp.com/help/141-add-more-email-accounts-to-spark.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;inbox&lt;/a&gt; to setting up an 
 &lt;a href=&#34;https://sparkmailapp.com/help/154-set-up-an-email-alias.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;alias&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;Once that&amp;rsquo;s completed, you should be good to start sending and receiving emails!&lt;/p&gt;
+&lt;p&gt;Once that&amp;rsquo;s completed, you should be good to start sending emails! However, receiving emails is a slightly different story. Having the SMTP is only part of the answer as you&amp;rsquo;ll see. Receiving emails from unverified email addresses requires an extra step that requires setting up a function to forward incoming emails to the email associated with your alias. Luckily, this website outlines it all for you so head over to the traveling squid and read his posts 
+&lt;a href=&#34;https://thetravellingsquid.com/2019/05/27/send-emails-with-gmail-using-amazon-simple-email-service/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;part 1&lt;/a&gt; and 
+&lt;a href=&#34;https://thetravellingsquid.com/2019/05/30/domain-specific-email-on-gmail-with-amazon-ses/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;part 2&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Next post will be around setting up a professional looking signature for your email.&lt;/p&gt;
 </description>
     </item>
