@@ -9,7 +9,7 @@ tags:
   - Other
 subtitle: ''
 summary: It's not straight forward to set up a professional email using AWS and another email client.
-authors: []
+authors: [admin]
 lastmod: '2020-07-30T18:27:20-04:00'
 featured: no
 image:
