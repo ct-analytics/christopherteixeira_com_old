@@ -7,7 +7,7 @@ categories: []
 tags:
   - Other
 subtitle: ''
-summary: ''
+summary: 'It takes some consideration to determine what you put into an email signature but there are some great services out there to help.'
 authors: [admin]
 lastmod: '2020-08-02T18:00:49-04:00'
 featured: no
