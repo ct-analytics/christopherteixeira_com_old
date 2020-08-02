@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Statistics | Christopher Teixeira</title>
+    <link>https://christopherteixeira.com/tag/statistics/</link>
+      <atom:link href="https://christopherteixeira.com/tag/statistics/index.xml" rel="self" type="application/rss+xml" />
+    <description>Statistics</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Christopher Teixeira</copyright><lastBuildDate>Thu, 01 Jun 2006 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://christopherteixeira.com/images/icon_hu720a42e4c39acd29e79ebd4769940488_141053_512x512_fill_lanczos_center_2.png</url>
+      <title>Statistics</title>
+      <link>https://christopherteixeira.com/tag/statistics/</link>
+    </image>
+    
+    <item>
+      <title>Statistical Analysis of Defensive Production in Major League Baseball</title>
+      <link>https://christopherteixeira.com/project/mqp/</link>
+      <pubDate>Thu, 01 Jun 2006 00:00:00 +0000</pubDate>
+      <guid>https://christopherteixeira.com/project/mqp/</guid>
+      <description>&lt;p&gt;While many statistical measures have been devised to measure team and player performance in professional baseball, relatively little work has been done to study and improve measures of defensive performance. This project’s goals were to model defensive contribution to team performance and develop related measures of individual player defensive production. Factor analysis was employed to extract positional factors and combine them with pitching and offensive measures into a final logistic regression model to determine effects of defense on team performance.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

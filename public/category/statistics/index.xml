@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Statistics | Christopher Teixeira</title>
+    <link>https://christopherteixeira.com/category/statistics/</link>
+      <atom:link href="https://christopherteixeira.com/category/statistics/index.xml" rel="self" type="application/rss+xml" />
+    <description>Statistics</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Christopher Teixeira</copyright><lastBuildDate>Mon, 01 Nov 2010 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://christopherteixeira.com/images/icon_hu720a42e4c39acd29e79ebd4769940488_141053_512x512_fill_lanczos_center_2.png</url>
+      <title>Statistics</title>
+      <link>https://christopherteixeira.com/category/statistics/</link>
+    </image>
+    
+    <item>
+      <title>Healthcare Claims Fraud</title>
+      <link>https://christopherteixeira.com/project/aetna/</link>
+      <pubDate>Mon, 01 Nov 2010 00:00:00 +0000</pubDate>
+      <guid>https://christopherteixeira.com/project/aetna/</guid>
+      <description>&lt;p&gt;Worked with a team to determine the best use of IBM’s analytical skills to help Aetna improve their business. Modified a SAS multiplicative regression model to be more flexible with data and improve efficiency. Determine the important factors in improving care management efficiency for existing programs at Aetna.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

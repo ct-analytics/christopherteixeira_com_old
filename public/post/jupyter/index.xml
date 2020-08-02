@@ -1,0 +1,15 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Display Jupyter Notebooks with Academic on Christopher Teixeira</title>
+    <link>https://christopherteixeira.com/post/jupyter/</link>
+    <description>Recent content in Display Jupyter Notebooks with Academic on Christopher Teixeira</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2020 Christopher Teixeira</copyright>
+    <lastBuildDate>Tue, 05 Feb 2019 00:00:00 +0000</lastBuildDate>
+    
+        <atom:link href="https://christopherteixeira.com/post/jupyter/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
+</rss>

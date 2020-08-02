@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>AWS | Christopher Teixeira</title>
+    <link>https://christopherteixeira.com/category/aws/</link>
+      <atom:link href="https://christopherteixeira.com/category/aws/index.xml" rel="self" type="application/rss+xml" />
+    <description>AWS</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Christopher Teixeira</copyright><lastBuildDate>Thu, 30 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://christopherteixeira.com/images/icon_hu720a42e4c39acd29e79ebd4769940488_141053_512x512_fill_lanczos_center_2.png</url>
+      <title>AWS</title>
+      <link>https://christopherteixeira.com/category/aws/</link>
+    </image>
+    
+    <item>
+      <title>Setting up an email using AWS</title>
+      <link>https://christopherteixeira.com/post/setting-up-an-email-using-aws/</link>
+      <pubDate>Thu, 30 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://christopherteixeira.com/post/setting-up-an-email-using-aws/</guid>
+      <description>&lt;h2 id=&#34;background&#34;&gt;Background&lt;/h2&gt;
+&lt;p&gt;If you haven&amp;rsquo;t followed my other posts, this website was created using 
+&lt;a href=&#34;https://bookdown.org/yihui/blogdown/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;blogdown&lt;/a&gt; in R. While building this site though, I decided to go off track in the tutorial to host it via Amazon Web Services (AWS) via their S3 buckets. It&amp;rsquo;s a pretty straight forward process with a 
+&lt;a href=&#34;https://docs.aws.amazon.com/AmazonS3/latest/dev/WebsiteHosting.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;detailed tutorial&lt;/a&gt; on hosting a static website.&lt;/p&gt;
+&lt;p&gt;What was less straight forward was setting up an email address to use with this website. This post will outline the major steps I took and aim at providing others with tips to follow for creating a professional email address to go with your website.&lt;/p&gt;
+&lt;h2 id=&#34;getting-the-email-address&#34;&gt;Getting the email address&lt;/h2&gt;
+&lt;p&gt;If you followed the tutorial for setting up a static website, then you not only have a public S3 bucket, but also a domain registered using Route 53 or a similar service. The next step is to explore AWS Simple Email Service or SES. Like other AWS services, you can do this via the AWS CLI tools or their browser. I used their browser interface for this but replicated the steps using CLI just to see if it felt any easier.&lt;/p&gt;
+&lt;p&gt;If you follow the AWS tutorials like 
+&lt;a href=&#34;https://aws.amazon.com/getting-started/hands-on/send-an-email/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;this one&lt;/a&gt;, it sounds incredibly simple: just create one, verify it, and open your email client to receive it. However, in order to verify your email you first need to have the ability to receive and store emails that by default won&amp;rsquo;t be available with a custom email. I did this inside another S3 bucket but you can do this in a number of ways.&lt;/p&gt;
+&lt;p&gt;Before you actually create the email, you need a rule set for receiving the email. This 
+&lt;a href=&#34;https://docs.aws.amazon.com/ses/latest/DeveloperGuide/receiving-email-receipt-rules.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;page&lt;/a&gt; details gives you the steps and tips to consider. For me, it was simple enough to just list the domain as a recipient and determine the specific email later.&lt;/p&gt;
+&lt;p&gt;Finally, you&amp;rsquo;re ready to verify the email. This requires setting up the email, clicking verify, going to the folder you identified in the corresponding S3 bucket, and making sure a file appeared there. If it did, then you can open and copy+paste the link into your browser to finish verifying the email address.&lt;/p&gt;
+&lt;h2 id=&#34;using-your-email-address&#34;&gt;Using your email address&lt;/h2&gt;
+&lt;p&gt;By default, this email address you just created is in the AWS SES sandbox. You can email anyone you have verified in here but for most practical purposes this won&amp;rsquo;t be sufficient. I want to be able to email anyone from this address using something like Spark. The next step is then to file a support ticket to do this. This 
+&lt;a href=&#34;https://docs.aws.amazon.com/ses/latest/DeveloperGuide/request-production-access.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;page&lt;/a&gt; gives you the details and I found it incredibly quick (about 10 hours) for them to review and approve this transaction.&lt;/p&gt;
+&lt;p&gt;Next step is to set up credentials for an SMTP server so you can retrieve and send emails using something other than AWS. This 
+&lt;a href=&#34;https://docs.aws.amazon.com/ses/latest/DeveloperGuide/smtp-credentials.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;page&lt;/a&gt; outlines the steps for getting your credentials. This is a key step, do not lose those credentials!&lt;/p&gt;
+&lt;p&gt;Various email clients and services might have slightly different steps, but I like using Spark for managing my many inboxes. They give you several options, from setting up a new 
+&lt;a href=&#34;https://sparkmailapp.com/help/141-add-more-email-accounts-to-spark.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;inbox&lt;/a&gt; to setting up an 
+&lt;a href=&#34;https://sparkmailapp.com/help/154-set-up-an-email-alias.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;alias&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Once that&amp;rsquo;s completed, you should be good to start sending and receiving emails!&lt;/p&gt;
+&lt;p&gt;Next post will be around setting up a professional looking signature for your email.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

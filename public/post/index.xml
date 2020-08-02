@@ -1,0 +1,97 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Christopher Teixeira</title>
+    <link>https://christopherteixeira.com/post/</link>
+    <description>Recent content in Posts on Christopher Teixeira</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2020 Christopher Teixeira</copyright>
+    
+        <atom:link href="https://christopherteixeira.com/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Setting up an email using AWS</title>
+      <link>https://christopherteixeira.com/post/setting-up-an-email-using-aws/</link>
+      <pubDate>Thu, 30 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://christopherteixeira.com/post/setting-up-an-email-using-aws/</guid>
+      <description>It&amp;rsquo;s not straight forward to set up a professional email using AWS and another email client.</description>
+      
+            <category>Other</category>
+      
+    </item>
+    
+    <item>
+      <title>Similar Players in MLB: Comparison against Baseball-Reference</title>
+      <link>https://christopherteixeira.com/post/mlb_player_similarity/20191113_mlb_player_similarity_3/</link>
+      <pubDate>Wed, 13 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://christopherteixeira.com/post/mlb_player_similarity/20191113_mlb_player_similarity_3/</guid>
+      <description>As many of you are aware, Baseball-Reference calculates a similarity score for each player against other players. Although this is an accepted way to calculate the similarity between two players, I wanted to see if my methodology compares.</description>
+      
+            <category>R</category>
+      
+    </item>
+    
+    <item>
+      <title>Similar Players in MLB: Calculating Similarity</title>
+      <link>https://christopherteixeira.com/post/mlb_player_similarity/20191110_mlb_player_similarity_2/</link>
+      <pubDate>Sun, 10 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://christopherteixeira.com/post/mlb_player_similarity/20191110_mlb_player_similarity_2/</guid>
+      <description>As I mentioned in Similar Players in MLB, I want to be able to see how similar players can be. I decided to take a somewhat different approach by looking at how a player’s career compares against another player’s career.</description>
+      
+            <category>R</category>
+      
+    </item>
+    
+    <item>
+      <title>Similar Players in MLB</title>
+      <link>https://christopherteixeira.com/post/mlb_player_similarity/20191108_mlb_player_similarity_1/</link>
+      <pubDate>Fri, 08 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://christopherteixeira.com/post/mlb_player_similarity/20191108_mlb_player_similarity_1/</guid>
+      <description>It’s a common question to compare baseball players against each other. The question is what do you actually compare? Their playing styles? Positions they played? Teams they played for? Eras they played in?</description>
+      
+            <category>R</category>
+      
+    </item>
+    
+    <item>
+      <title>Writing technical content in Academic</title>
+      <link>https://christopherteixeira.com/post/writing-technical-content/</link>
+      <pubDate>Fri, 12 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://christopherteixeira.com/post/writing-technical-content/</guid>
+      <description>Academic is designed to give technical content creators a seamless experience. You can focus on the content and Academic handles the rest.
+Highlight your code snippets, take notes on math classes, and draw diagrams from textual representation.</description>
+      
+    </item>
+    
+    <item>
+      <title>Display Jupyter Notebooks with Academic</title>
+      <link>https://christopherteixeira.com/post/jupyter/</link>
+      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://christopherteixeira.com/post/jupyter/</guid>
+      <description>Learn how to blog in Academic using Jupyter notebooks</description>
+      
+    </item>
+    
+    <item>
+      <title>Academic: the website builder for Hugo</title>
+      <link>https://christopherteixeira.com/post/getting-started/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://christopherteixeira.com/post/getting-started/</guid>
+      <description>Create a beautifully simple website in under 10 minutes.</description>
+      
+            <category>Academic</category>
+      
+            <category>开源</category>
+      
+    </item>
+    
+  </channel>
+</rss>
