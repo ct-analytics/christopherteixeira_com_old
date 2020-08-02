@@ -43,6 +43,6 @@ Next step is to set up credentials for an SMTP server so you can retrieve and se
 
 Various email clients and services might have slightly different steps, but I like using Spark for managing my many inboxes. They give you several options, from setting up a new [inbox](https://sparkmailapp.com/help/141-add-more-email-accounts-to-spark.html) to setting up an [alias](https://sparkmailapp.com/help/154-set-up-an-email-alias.html).
 
-Once that's completed, you should be good to start sending and receiving emails!
+Once that's completed, you should be good to start sending emails! However, receiving emails is a slightly different story. Having the SMTP is only part of the answer as you'll see. Receiving emails from unverified email addresses requires an extra step that requires setting up a function to forward incoming emails to the email associated with your alias. Luckily, this website outlines it all for you so head over to the traveling squid and read his posts [part 1](https://thetravellingsquid.com/2019/05/27/send-emails-with-gmail-using-amazon-simple-email-service/) and [part 2](https://thetravellingsquid.com/2019/05/30/domain-specific-email-on-gmail-with-amazon-ses/). 
 
 Next post will be around setting up a professional looking signature for your email.
