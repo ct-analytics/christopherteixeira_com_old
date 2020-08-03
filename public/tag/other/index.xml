@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Other | Christopher Teixeira</title>
-    <link>https://christopherteixeira.com/tag/other/</link>
-      <atom:link href="https://christopherteixeira.com/tag/other/index.xml" rel="self" type="application/rss+xml" />
+    <link>/tag/other/</link>
+      <atom:link href="/tag/other/index.xml" rel="self" type="application/rss+xml" />
     <description>Other</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Christopher Teixeira</copyright><lastBuildDate>Sun, 02 Aug 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://christopherteixeira.com/images/icon_hu720a42e4c39acd29e79ebd4769940488_141053_512x512_fill_lanczos_center_2.png</url>
+      <url>/images/icon_hu720a42e4c39acd29e79ebd4769940488_141053_512x512_fill_lanczos_center_2.png</url>
       <title>Other</title>
-      <link>https://christopherteixeira.com/tag/other/</link>
+      <link>/tag/other/</link>
     </image>
     
     <item>
       <title>Setting up an Email Signature</title>
-      <link>https://christopherteixeira.com/post/setting-up-an-email-signature/</link>
+      <link>/post/setting-up-an-email-signature/</link>
       <pubDate>Sun, 02 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>https://christopherteixeira.com/post/setting-up-an-email-signature/</guid>
+      <guid>/post/setting-up-an-email-signature/</guid>
       <description>&lt;h2 id=&#34;background&#34;&gt;Background&lt;/h2&gt;
 &lt;p&gt;Email signatures are a great way to personalize your own responses. Many people out there by default say something like &amp;ldquo;Best, John&amp;rdquo; or &amp;ldquo;Regards, Jane&amp;rdquo; which is very respectful, but also plain. If you&amp;rsquo;re trying to make a good first impression with a company or trying to win a contract, a formatted email signature can go a long way.&lt;/p&gt;
 &lt;h2 id=&#34;simple-options&#34;&gt;Simple Options&lt;/h2&gt;
@@ -84,9 +84,9 @@ Twitter: twitter.com/ct_analytics &lt;br&gt;&lt;/p&gt;
     
     <item>
       <title>Setting up an email using AWS</title>
-      <link>https://christopherteixeira.com/post/setting-up-an-email-using-aws/</link>
+      <link>/post/setting-up-an-email-using-aws/</link>
       <pubDate>Thu, 30 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>https://christopherteixeira.com/post/setting-up-an-email-using-aws/</guid>
+      <guid>/post/setting-up-an-email-using-aws/</guid>
       <description>&lt;h2 id=&#34;background&#34;&gt;Background&lt;/h2&gt;
 &lt;p&gt;If you haven&amp;rsquo;t followed my other posts, this website was created using 
 &lt;a href=&#34;https://bookdown.org/yihui/blogdown/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;blogdown&lt;/a&gt; in R. While building this site though, I decided to go off track in the tutorial to host it via Amazon Web Services (AWS) via their S3 buckets. It&amp;rsquo;s a pretty straight forward process with a 

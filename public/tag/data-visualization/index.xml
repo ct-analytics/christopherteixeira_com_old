@@ -2,48 +2,48 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Data Visualization | Christopher Teixeira</title>
-    <link>https://christopherteixeira.com/tag/data-visualization/</link>
-      <atom:link href="https://christopherteixeira.com/tag/data-visualization/index.xml" rel="self" type="application/rss+xml" />
+    <link>/tag/data-visualization/</link>
+      <atom:link href="/tag/data-visualization/index.xml" rel="self" type="application/rss+xml" />
     <description>Data Visualization</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Christopher Teixeira</copyright><lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://christopherteixeira.com/images/icon_hu720a42e4c39acd29e79ebd4769940488_141053_512x512_fill_lanczos_center_2.png</url>
+      <url>/images/icon_hu720a42e4c39acd29e79ebd4769940488_141053_512x512_fill_lanczos_center_2.png</url>
       <title>Data Visualization</title>
-      <link>https://christopherteixeira.com/tag/data-visualization/</link>
+      <link>/tag/data-visualization/</link>
     </image>
     
     <item>
       <title>Department of Energy Cost and Schedule Tool</title>
-      <link>https://christopherteixeira.com/project/doe-cost-and-schedule-tool/</link>
+      <link>/project/doe-cost-and-schedule-tool/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://christopherteixeira.com/project/doe-cost-and-schedule-tool/</guid>
+      <guid>/project/doe-cost-and-schedule-tool/</guid>
       <description>&lt;p&gt;Developed a discrete simulation model capable of performing lifecycle cost and schedule analysis. This model supports executives that make decisions on alternative strategies which are expected to cost on the order of tens of billions of dollars. The model, built entirely in JavaScript using SIM.JS, allows users to configure the schedule and efficiency of each alternative. After the model completes, results are displayed using a combination of D3 and TimelineJS libraries.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Veteran Benefits Administration Command and Control Model</title>
-      <link>https://christopherteixeira.com/project/vba-command-and-control-model/</link>
+      <link>/project/vba-command-and-control-model/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>https://christopherteixeira.com/project/vba-command-and-control-model/</guid>
+      <guid>/project/vba-command-and-control-model/</guid>
       <description>&lt;p&gt;Coordinate efforts and approaches between teams to optimize approaches. Advise on the use of data for inputs into a discrete event simulation and the model out visualization.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Financial Metrics Visual Model</title>
-      <link>https://christopherteixeira.com/project/financial-metrics-visual-model/</link>
+      <link>/project/financial-metrics-visual-model/</link>
       <pubDate>Sat, 01 Aug 2015 00:00:00 +0000</pubDate>
-      <guid>https://christopherteixeira.com/project/financial-metrics-visual-model/</guid>
+      <guid>/project/financial-metrics-visual-model/</guid>
       <description>&lt;p&gt;The Financial Metrics Visual Model is a tool designed to help MITRE leadership understand the impact of their decisions on high-level MITRE financial metrics. Working with members of the MITRE Finance department, I created a interactive system dynamics model that will allow the user to adjust high level inputs to see how they impact both MITRE financial metrics and other intermediate values used in calculating those metrics.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>JIEDDO - Operations Research and Systems Analysis Support</title>
-      <link>https://christopherteixeira.com/project/jieddo/</link>
+      <link>/project/jieddo/</link>
       <pubDate>Tue, 01 Mar 2011 00:00:00 +0000</pubDate>
-      <guid>https://christopherteixeira.com/project/jieddo/</guid>
+      <guid>/project/jieddo/</guid>
       <description>&lt;p&gt;I support JIEDDO using various analytical techniques including Analytic Hierarchy Process (AHP) and Regression Analysis. I created and tested a metric to help support decision making for various groups of people working with JIEDDO. I transferred complicated projects in EXCEL and ACCESS to SAS, improving the run-time and product quality. I created SAS Stored Processes to help streamline report generation, support business intelligence, and produce high quality graphics for all customers. I wrote a process to clean raw data and format the data using regular expression parsing on ingest of the data feeds. I integrated a process to parse XML files and create new databases from the results, making new sources of data available for a multitude of colleagues. I designed a database to enhance reporting and help determine an optimal solution to a resource allocation problem.&lt;/p&gt;
 &lt;p&gt;Image: US soldiers examine evidence at an IED training site at the National Training Center at Fort Irwin, California, US.&lt;/p&gt;
 </description>

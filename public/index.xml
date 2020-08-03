@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Christopher Teixeira</title>
-    <link>https://christopherteixeira.com/</link>
-      <atom:link href="https://christopherteixeira.com/index.xml" rel="self" type="application/rss+xml" />
+    <link>/</link>
+      <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <description>Christopher Teixeira</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Christopher Teixeira</copyright><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://christopherteixeira.com/images/icon_hu720a42e4c39acd29e79ebd4769940488_141053_512x512_fill_lanczos_center_2.png</url>
+      <url>/images/icon_hu720a42e4c39acd29e79ebd4769940488_141053_512x512_fill_lanczos_center_2.png</url>
       <title>Christopher Teixeira</title>
-      <link>https://christopherteixeira.com/</link>
+      <link>/</link>
     </image>
     
     <item>
       <title>Example Page 1</title>
-      <link>https://christopherteixeira.com/courses/example/example1/</link>
+      <link>/courses/example/example1/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>https://christopherteixeira.com/courses/example/example1/</guid>
+      <guid>/courses/example/example1/</guid>
       <description>&lt;p&gt;In this tutorial, I&amp;rsquo;ll share my top 10 tips for getting started with Academic:&lt;/p&gt;
 &lt;h2 id=&#34;tip-1&#34;&gt;Tip 1&lt;/h2&gt;
 &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
@@ -35,9 +35,9 @@
     
     <item>
       <title>Example Page 2</title>
-      <link>https://christopherteixeira.com/courses/example/example2/</link>
+      <link>/courses/example/example2/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>https://christopherteixeira.com/courses/example/example2/</guid>
+      <guid>/courses/example/example2/</guid>
       <description>&lt;p&gt;Here are some more tips for getting started with Academic:&lt;/p&gt;
 &lt;h2 id=&#34;tip-3&#34;&gt;Tip 3&lt;/h2&gt;
 &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
@@ -56,9 +56,9 @@
     
     <item>
       <title>Example Talk</title>
-      <link>https://christopherteixeira.com/talk/example/</link>
+      <link>/talk/example/</link>
       <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
-      <guid>https://christopherteixeira.com/talk/example/</guid>
+      <guid>/talk/example/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
@@ -78,9 +78,9 @@
     
     <item>
       <title>Setting up an Email Signature</title>
-      <link>https://christopherteixeira.com/post/setting-up-an-email-signature/</link>
+      <link>/post/setting-up-an-email-signature/</link>
       <pubDate>Sun, 02 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>https://christopherteixeira.com/post/setting-up-an-email-signature/</guid>
+      <guid>/post/setting-up-an-email-signature/</guid>
       <description>&lt;h2 id=&#34;background&#34;&gt;Background&lt;/h2&gt;
 &lt;p&gt;Email signatures are a great way to personalize your own responses. Many people out there by default say something like &amp;ldquo;Best, John&amp;rdquo; or &amp;ldquo;Regards, Jane&amp;rdquo; which is very respectful, but also plain. If you&amp;rsquo;re trying to make a good first impression with a company or trying to win a contract, a formatted email signature can go a long way.&lt;/p&gt;
 &lt;h2 id=&#34;simple-options&#34;&gt;Simple Options&lt;/h2&gt;
@@ -148,9 +148,9 @@ Twitter: twitter.com/ct_analytics &lt;br&gt;&lt;/p&gt;
     
     <item>
       <title>Setting up an email using AWS</title>
-      <link>https://christopherteixeira.com/post/setting-up-an-email-using-aws/</link>
+      <link>/post/setting-up-an-email-using-aws/</link>
       <pubDate>Thu, 30 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>https://christopherteixeira.com/post/setting-up-an-email-using-aws/</guid>
+      <guid>/post/setting-up-an-email-using-aws/</guid>
       <description>&lt;h2 id=&#34;background&#34;&gt;Background&lt;/h2&gt;
 &lt;p&gt;If you haven&amp;rsquo;t followed my other posts, this website was created using 
 &lt;a href=&#34;https://bookdown.org/yihui/blogdown/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;blogdown&lt;/a&gt; in R. While building this site though, I decided to go off track in the tutorial to host it via Amazon Web Services (AWS) via their S3 buckets. It&amp;rsquo;s a pretty straight forward process with a 
@@ -180,9 +180,9 @@ Twitter: twitter.com/ct_analytics &lt;br&gt;&lt;/p&gt;
     
     <item>
       <title>Similar Players in MLB: Comparison against Baseball-Reference</title>
-      <link>https://christopherteixeira.com/post/mlb_player_similarity/20191113_mlb_player_similarity_3/</link>
+      <link>/post/mlb_player_similarity/20191113_mlb_player_similarity_3/</link>
       <pubDate>Wed, 13 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>https://christopherteixeira.com/post/mlb_player_similarity/20191113_mlb_player_similarity_3/</guid>
+      <guid>/post/mlb_player_similarity/20191113_mlb_player_similarity_3/</guid>
       <description>
 
 
@@ -220,27 +220,27 @@ Twitter: twitter.com/ct_analytics &lt;br&gt;&lt;/p&gt;
     
     <item>
       <title>Similar Players in MLB: Calculating Similarity</title>
-      <link>https://christopherteixeira.com/post/mlb_player_similarity/20191110_mlb_player_similarity_2/</link>
+      <link>/post/mlb_player_similarity/20191110_mlb_player_similarity_2/</link>
       <pubDate>Sun, 10 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>https://christopherteixeira.com/post/mlb_player_similarity/20191110_mlb_player_similarity_2/</guid>
+      <guid>/post/mlb_player_similarity/20191110_mlb_player_similarity_2/</guid>
       <description>
 
 
 &lt;p&gt;As I mentioned in Similar Players in MLB, I want to be able to see how similar players can be. I decided to take a somewhat different approach by looking at how a player’s career compares against another player’s career. In order to put things in terms of a career, I didn’t want to simply sum up their statistics or normalize given the number of years they played. I wanted to be able to compare a player’s second year against another player’s second year. This isn’t a simple problem though.&lt;/p&gt;
 &lt;p&gt;First part of the problem, what statistics do you use to compare two different players? Using the &lt;a href=&#34;http://www.seanlahman.com/baseball-archive/statistics/&#34;&gt;Lahman Database&lt;/a&gt;, I had easy access to the common statistics like games played, at bats, runs scored, hits, doubles, triples, etc. However, this database doesn’t simply just have the counting stats by year. It is a compiled record of stats by league and team. In order to simplify the data collection, I aggregated the information up to the combination of player and year.&lt;/p&gt;
 &lt;p&gt;Second part of the problem, how accurate is it to compare a player’s first year against another player’s first year? Is it possible to correct for a player being sent to the majors a little early or taking a couple years to develop? This means being able to compare a player’s first year against another player’s first, second, or perhaps third year to determine the closest match. How do you adjust for a player’s third year against a player’s first year? While I use SAS at work, I don’t have access to it’s functions at home. I noticed that SAS’s &lt;a href=&#34;http://support.sas.com/documentation/cdl/en/etsug/60372/HTML/default/viewer.htm#similarity_toc.htm&#34;&gt;PROC SIMILARITY&lt;/a&gt; has the capability for being able to calculate the minimum distance between two time series. Consider the example below of two player’s games.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://christopherteixeira.com/_post/20191110_mlb_player_similarity_2_files/figure-html/player_graph-1.png&#34; width=&#34;672&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/_post/20191110_mlb_player_similarity_2_files/figure-html/player_graph-1.png&#34; width=&#34;672&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;Note that they’re not the exact same, but you can see the similarity between the two. Using dynamic programming, you can find the minimum distance between these two time series. Distance between two time series can be a simple euclidean distance or something slightly different. However, I don’t have access to SAS at home. Luckily enough, I was able to find a package in R that has this capability. Using the &lt;a href=&#34;https://cran.r-project.org/web/packages/dtw/index.html&#34;&gt;“dtw” package&lt;/a&gt;, you can easily calculate the distance between two different time series. Applying this package to the above example, gives you the results below. This three-way plot shows each player’s data in the margins and how each point maps. The closer the plot is to Y=X implies the how close the mapping of one series of data is to another.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://christopherteixeira.com/_post/20191110_mlb_player_similarity_2_files/figure-html/comparison-1.png&#34; width=&#34;672&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/_post/20191110_mlb_player_similarity_2_files/figure-html/comparison-1.png&#34; width=&#34;672&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;The next problem is how to use all of this similarity to figure out what players are actually similar to each other. Keep an eye out for my next blog on using Social Network Analysis to cluster these players together and incorporating more than just Games Played.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Similar Players in MLB</title>
-      <link>https://christopherteixeira.com/post/mlb_player_similarity/20191108_mlb_player_similarity_1/</link>
+      <link>/post/mlb_player_similarity/20191108_mlb_player_similarity_1/</link>
       <pubDate>Fri, 08 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>https://christopherteixeira.com/post/mlb_player_similarity/20191108_mlb_player_similarity_1/</guid>
+      <guid>/post/mlb_player_similarity/20191108_mlb_player_similarity_1/</guid>
       <description>
 
 
@@ -263,9 +263,9 @@ Twitter: twitter.com/ct_analytics &lt;br&gt;&lt;/p&gt;
     
     <item>
       <title>An example preprint / working paper</title>
-      <link>https://christopherteixeira.com/publication/preprint/</link>
+      <link>/publication/preprint/</link>
       <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>https://christopherteixeira.com/publication/preprint/</guid>
+      <guid>/publication/preprint/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
@@ -278,9 +278,9 @@ Twitter: twitter.com/ct_analytics &lt;br&gt;&lt;/p&gt;
     
     <item>
       <title>Slides</title>
-      <link>https://christopherteixeira.com/slides/example/</link>
+      <link>/slides/example/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>https://christopherteixeira.com/slides/example/</guid>
+      <guid>/slides/example/</guid>
       <description>&lt;h1 id=&#34;create-slides-in-markdown-with-academic&#34;&gt;Create slides in Markdown with Academic&lt;/h1&gt;
 &lt;p&gt;
 &lt;a href=&#34;https://sourcethemes.com/academic/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Academic&lt;/a&gt; | 
@@ -412,27 +412,45 @@ Three
     
     <item>
       <title>State Engagement to Address Opioid Overprescribing and Misuse</title>
-      <link>https://christopherteixeira.com/project/state-engagement-to-address-opioid-overprescribing-and-misuse/</link>
+      <link>/project/state-engagement-to-address-opioid-overprescribing-and-misuse/</link>
       <pubDate>Tue, 11 Sep 2018 00:00:00 +0000</pubDate>
-      <guid>https://christopherteixeira.com/project/state-engagement-to-address-opioid-overprescribing-and-misuse/</guid>
+      <guid>/project/state-engagement-to-address-opioid-overprescribing-and-misuse/</guid>
       <description>&lt;p&gt;To be filled in later.&lt;/p&gt;
 </description>
     </item>
     
     <item>
+      <title>Privacy Policy</title>
+      <link>/privacy/</link>
+      <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
+      <guid>/privacy/</guid>
+      <description>&lt;p&gt;&amp;hellip;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Terms</title>
+      <link>/terms/</link>
+      <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
+      <guid>/terms/</guid>
+      <description>&lt;p&gt;&amp;hellip;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Predicting Pitch Types</title>
-      <link>https://christopherteixeira.com/project/predicting-pitch-types/</link>
+      <link>/project/predicting-pitch-types/</link>
       <pubDate>Wed, 01 Mar 2017 00:00:00 +0000</pubDate>
-      <guid>https://christopherteixeira.com/project/predicting-pitch-types/</guid>
+      <guid>/project/predicting-pitch-types/</guid>
       <description>&lt;p&gt;TruMedia Networks sponsored their 2nd Baseball Analytics Hackathon to bring together some of sport&amp;rsquo;s brightest developers and analysts to see what projects and analysis they can create. Providing pitch data over the previous three years, I took the opportunity to explore the ability to predict the next pitch type. The link for this project walks through my analysis in R using a multinomial logistic regression model to predict pitch types for Jon Lester.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Predictive Analytics in Child Welfare</title>
-      <link>https://christopherteixeira.com/project/predictive-analytics-child-welfare/</link>
+      <link>/project/predictive-analytics-child-welfare/</link>
       <pubDate>Mon, 01 Aug 2016 00:00:00 +0000</pubDate>
-      <guid>https://christopherteixeira.com/project/predictive-analytics-child-welfare/</guid>
+      <guid>/project/predictive-analytics-child-welfare/</guid>
       <description>&lt;p&gt;Lead a small team that interviewed several child welfare agencies to understand their progress in utilizing predictive analytics. This environmental scan resulted in two publicly released documents hosted on the Department of Health and Human Services Assistant Secretary for Planning and Evaluation website.&lt;/p&gt;
 &lt;p&gt;Separately, I led a small team that brought together six government agencies to analyze data around children in foster care to understand how their experiences impact their ability to lead health and independent lives. This involved working directly with a state to obtain and analyze their data using predictive analytics.&lt;/p&gt;
 </description>
@@ -440,36 +458,36 @@ Three
     
     <item>
       <title>Department of Energy Cost and Schedule Tool</title>
-      <link>https://christopherteixeira.com/project/doe-cost-and-schedule-tool/</link>
+      <link>/project/doe-cost-and-schedule-tool/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://christopherteixeira.com/project/doe-cost-and-schedule-tool/</guid>
+      <guid>/project/doe-cost-and-schedule-tool/</guid>
       <description>&lt;p&gt;Developed a discrete simulation model capable of performing lifecycle cost and schedule analysis. This model supports executives that make decisions on alternative strategies which are expected to cost on the order of tens of billions of dollars. The model, built entirely in JavaScript using SIM.JS, allows users to configure the schedule and efficiency of each alternative. After the model completes, results are displayed using a combination of D3 and TimelineJS libraries.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Veteran Benefits Administration Command and Control Model</title>
-      <link>https://christopherteixeira.com/project/vba-command-and-control-model/</link>
+      <link>/project/vba-command-and-control-model/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>https://christopherteixeira.com/project/vba-command-and-control-model/</guid>
+      <guid>/project/vba-command-and-control-model/</guid>
       <description>&lt;p&gt;Coordinate efforts and approaches between teams to optimize approaches. Advise on the use of data for inputs into a discrete event simulation and the model out visualization.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Children at Risk Research</title>
-      <link>https://christopherteixeira.com/project/children-at-risk-research/</link>
+      <link>/project/children-at-risk-research/</link>
       <pubDate>Tue, 01 Dec 2015 00:00:00 +0000</pubDate>
-      <guid>https://christopherteixeira.com/project/children-at-risk-research/</guid>
+      <guid>/project/children-at-risk-research/</guid>
       <description>&lt;p&gt;The Children at Risk research project looks at which information is important at determining which children under the age of ten are at higher risk for fatality due to abuse and neglect. Leading a small team, we&amp;rsquo;ve collected data from multiple parts of a local Health and Human Services Agency to bring together and understand some of the data quality issues that might exist in other HHS agencies. We use R (specifically the CARET library) to identify which factors are the most important in determining children who are at higher risk due to fatality. Using this information, we hope to design a data visualization tool that will help caseworkers identify those children at higher risk of fatality due to abuse and neglect.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>An example journal article</title>
-      <link>https://christopherteixeira.com/publication/journal-article/</link>
+      <link>/publication/journal-article/</link>
       <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
-      <guid>https://christopherteixeira.com/publication/journal-article/</guid>
+      <guid>/publication/journal-article/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -487,27 +505,27 @@ Three
     
     <item>
       <title>Financial Metrics Visual Model</title>
-      <link>https://christopherteixeira.com/project/financial-metrics-visual-model/</link>
+      <link>/project/financial-metrics-visual-model/</link>
       <pubDate>Sat, 01 Aug 2015 00:00:00 +0000</pubDate>
-      <guid>https://christopherteixeira.com/project/financial-metrics-visual-model/</guid>
+      <guid>/project/financial-metrics-visual-model/</guid>
       <description>&lt;p&gt;The Financial Metrics Visual Model is a tool designed to help MITRE leadership understand the impact of their decisions on high-level MITRE financial metrics. Working with members of the MITRE Finance department, I created a interactive system dynamics model that will allow the user to adjust high level inputs to see how they impact both MITRE financial metrics and other intermediate values used in calculating those metrics.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Strategic Workforce Model</title>
-      <link>https://christopherteixeira.com/project/strategic-workforce-model/</link>
+      <link>/project/strategic-workforce-model/</link>
       <pubDate>Wed, 01 Jul 2015 00:00:00 +0000</pubDate>
-      <guid>https://christopherteixeira.com/project/strategic-workforce-model/</guid>
+      <guid>/project/strategic-workforce-model/</guid>
       <description>&lt;p&gt;The Strategic Workforce Modeling project focuses on hiring goals directors set for their division to project out what their staff will project to be in five years. Working in AnyLogic, I&amp;rsquo;ve updated the Agent Based Model to be more efficient, account for additional staff behavior, and produce data for Tableau. The Tableau workbook blends model outputs together to create a dashboard for directors to understand the impact of their hiring policies and the uncertainty of what their staff levels will look like over the next five years.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Real Time Predictive Modeling</title>
-      <link>https://christopherteixeira.com/project/realtime-predictive-modeling/</link>
+      <link>/project/realtime-predictive-modeling/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>https://christopherteixeira.com/project/realtime-predictive-modeling/</guid>
+      <guid>/project/realtime-predictive-modeling/</guid>
       <description>&lt;p&gt;Worked directly with a client to design data sources that allow for real time modeling and scoring. Led a team of statisticians to consolidate knowledge and design best practices in advanced modeling techniques for near real time model building.&lt;/p&gt;
 &lt;p&gt;Designed a methodology to detect and predict client behavior patterns. Results of this methodology are intended to influence real-time marketing decisions to improve response rates.&lt;/p&gt;
 </description>
@@ -515,9 +533,9 @@ Three
     
     <item>
       <title>An example conference paper</title>
-      <link>https://christopherteixeira.com/publication/conference-paper/</link>
+      <link>/publication/conference-paper/</link>
       <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
-      <guid>https://christopherteixeira.com/publication/conference-paper/</guid>
+      <guid>/publication/conference-paper/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -535,36 +553,36 @@ Three
     
     <item>
       <title>MLB Player Similarity</title>
-      <link>https://christopherteixeira.com/project/mlb-player-similarity/</link>
+      <link>/project/mlb-player-similarity/</link>
       <pubDate>Sat, 01 Jun 2013 00:00:00 +0000</pubDate>
-      <guid>https://christopherteixeira.com/project/mlb-player-similarity/</guid>
+      <guid>/project/mlb-player-similarity/</guid>
       <description>&lt;p&gt;Using a combination of dynamic programming and social network analysis, I compare a player&amp;rsquo;s career stats against other players to figure out who are the most similar. After determining which players are similar, I use various social network analysis techniques to be able to cluster and categorize players.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Sentiment Analysis for specific Brand/Products</title>
-      <link>https://christopherteixeira.com/project/sentiment-analysis/</link>
+      <link>/project/sentiment-analysis/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
-      <guid>https://christopherteixeira.com/project/sentiment-analysis/</guid>
+      <guid>/project/sentiment-analysis/</guid>
       <description>&lt;p&gt;Analyze social media (Twitter) to determine sentiment around a client&amp;rsquo;s brand and specific products. Using R, analyzed tweets to determine shifts in sentiment over time about a client&amp;rsquo;s brand and general effectiveness of customer service. Produced visualizations through R and Tableau to help executives understand the sentiment analysis results.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Customer Attrition Analysis</title>
-      <link>https://christopherteixeira.com/project/customer-attrition-analysis/</link>
+      <link>/project/customer-attrition-analysis/</link>
       <pubDate>Sat, 01 Dec 2012 00:00:00 +0000</pubDate>
-      <guid>https://christopherteixeira.com/project/customer-attrition-analysis/</guid>
+      <guid>/project/customer-attrition-analysis/</guid>
       <description>&lt;p&gt;I worked with team members to build a Bayesian Belief Network (BBN) on large data sources in Netezza to predict the likelihood of a person closing an account with our client. I compared the BBN model results against Logistic Regression to determine best modeling approach. The results showed that the Logistic Regression approach provided more accurate results, but required more resources to get that result.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>JIEDDO - Operations Research and Systems Analysis Support</title>
-      <link>https://christopherteixeira.com/project/jieddo/</link>
+      <link>/project/jieddo/</link>
       <pubDate>Tue, 01 Mar 2011 00:00:00 +0000</pubDate>
-      <guid>https://christopherteixeira.com/project/jieddo/</guid>
+      <guid>/project/jieddo/</guid>
       <description>&lt;p&gt;I support JIEDDO using various analytical techniques including Analytic Hierarchy Process (AHP) and Regression Analysis. I created and tested a metric to help support decision making for various groups of people working with JIEDDO. I transferred complicated projects in EXCEL and ACCESS to SAS, improving the run-time and product quality. I created SAS Stored Processes to help streamline report generation, support business intelligence, and produce high quality graphics for all customers. I wrote a process to clean raw data and format the data using regular expression parsing on ingest of the data feeds. I integrated a process to parse XML files and create new databases from the results, making new sources of data available for a multitude of colleagues. I designed a database to enhance reporting and help determine an optimal solution to a resource allocation problem.&lt;/p&gt;
 &lt;p&gt;Image: US soldiers examine evidence at an IED training site at the National Training Center at Fort Irwin, California, US.&lt;/p&gt;
 </description>
@@ -572,36 +590,36 @@ Three
     
     <item>
       <title>Healthcare Claims Fraud</title>
-      <link>https://christopherteixeira.com/project/aetna/</link>
+      <link>/project/aetna/</link>
       <pubDate>Mon, 01 Nov 2010 00:00:00 +0000</pubDate>
-      <guid>https://christopherteixeira.com/project/aetna/</guid>
+      <guid>/project/aetna/</guid>
       <description>&lt;p&gt;Worked with a team to determine the best use of IBM’s analytical skills to help Aetna improve their business. Modified a SAS multiplicative regression model to be more flexible with data and improve efficiency. Determine the important factors in improving care management efficiency for existing programs at Aetna.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Optimizing Team Assignments</title>
-      <link>https://christopherteixeira.com/project/nvss/</link>
+      <link>/project/nvss/</link>
       <pubDate>Sun, 01 Aug 2010 00:00:00 +0000</pubDate>
-      <guid>https://christopherteixeira.com/project/nvss/</guid>
+      <guid>/project/nvss/</guid>
       <description>&lt;p&gt;The teams in the Northern Virginia Senior Softball (NVSS) league are reorganized every year with the desire to make them as even as possible and promote social interactions. This project’s goals were to develop a methodology to produce team assignments for players such that the teams are equal in regards to player ability and other attributes. Multiple regression was employed to obtain offensive, defensive, and team metrics. An integer program (IP) model was developed where constraints were aligned with the goals of the NVSS league to solve the assignment problem. The IP model was linked to a team assignment tool which allows the user to select settings and parameters before running the model.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Port Operations Analysis for PNNL</title>
-      <link>https://christopherteixeira.com/project/pnnl/</link>
+      <link>/project/pnnl/</link>
       <pubDate>Wed, 01 Jul 2009 00:00:00 +0000</pubDate>
-      <guid>https://christopherteixeira.com/project/pnnl/</guid>
+      <guid>/project/pnnl/</guid>
       <description>&lt;p&gt;Using AnyLogic to build a combined Discrete Event / Agent Based model to determine the effects of introducing delays to a seaport&amp;rsquo;s operations. Build reports given the results of a sensitivity analysis or Monte Carlo run version of the model. Compiled an applet version of the model and combined with an HTML interface to supply to the customer.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>NASA - Probabilistic Campaign Manifest Analysis Tool</title>
-      <link>https://christopherteixeira.com/project/pcmat/</link>
+      <link>/project/pcmat/</link>
       <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
-      <guid>https://christopherteixeira.com/project/pcmat/</guid>
+      <guid>/project/pcmat/</guid>
       <description>&lt;p&gt;Probabilistic Campaign Manifest Analysis Tool (PCMAT) was an excel based tool that would take in a manifest for a lunar campaign and run a simulation to evaluate various metrics about the campaign. I updated and expanded the capabilities of the this tool to track new metrics and increase the number of Bernoulli trials run within the course of a campaign. In addition, I improved the efficiency of the model through VBA and advanced EXCEL worksheet formulas.&lt;/p&gt;
 &lt;p&gt;Our team&amp;rsquo;s effort on this work was acknowledged in the &amp;ldquo;&lt;a href=&#34;http://www.nasa.gov/pdf/396093main_HSF_Cmte_FinalReport.pdf&#34;&gt;SEEKING A HUMAN SPACEFLIGHT PROGRAM WORTHY OF A GREAT NATION&lt;/a&gt;&amp;rdquo; report to Congress.&lt;/p&gt;
 </description>
@@ -609,9 +627,9 @@ Three
     
     <item>
       <title>Transit Risk and Assessment Methodology</title>
-      <link>https://christopherteixeira.com/project/tram/</link>
+      <link>/project/tram/</link>
       <pubDate>Sat, 01 Jul 2006 00:00:00 +0000</pubDate>
-      <guid>https://christopherteixeira.com/project/tram/</guid>
+      <guid>/project/tram/</guid>
       <description>&lt;p&gt;Served as the data manager for analysis of counter-terrorism defense measures in place for several mass transit systems under the Transit Risk Assessment Module (TRAM). Assisted in recording data at meetings and on-site visits. Track changes to and finalize documents for delivery to the customer. Performed cost-benefit analysis (CBA) for several jurisdictions using the Risk Management Tool (RMT). Prepared materials for TRAM workshops and adjusted data during the workshops to provide accurate results. Aided as the CBA specialist during the TRAM workshops. Instructed on proper use of the RMT software.&lt;/p&gt;
 &lt;p&gt;Updated the TRAM methodology to include multi-hazards and aggregated decision tactics. Built the new methodology into EXCEL through worksheet functions and VBA.&lt;/p&gt;
 &lt;p&gt;Using specific projects developed by Port Authority of New York and New Jersey (PANYNJ), adjusted pieces of the risk formula and calculated a ten year lifecycle cost in order to analyze and update the priority of projects to be implemented. Developed a specialized toolkit in EXCEL to run a cost benefit analysis and select optimal points using a pareto frontier.&lt;/p&gt;
@@ -620,9 +638,9 @@ Three
     
     <item>
       <title>Statistical Analysis of Defensive Production in Major League Baseball</title>
-      <link>https://christopherteixeira.com/project/mqp/</link>
+      <link>/project/mqp/</link>
       <pubDate>Thu, 01 Jun 2006 00:00:00 +0000</pubDate>
-      <guid>https://christopherteixeira.com/project/mqp/</guid>
+      <guid>/project/mqp/</guid>
       <description>&lt;p&gt;While many statistical measures have been devised to measure team and player performance in professional baseball, relatively little work has been done to study and improve measures of defensive performance. This project’s goals were to model defensive contribution to team performance and develop related measures of individual player defensive production. Factor analysis was employed to extract positional factors and combine them with pitching and offensive measures into a final logistic regression model to determine effects of defense on team performance.&lt;/p&gt;
 </description>
     </item>

@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Internal Project | Christopher Teixeira</title>
-    <link>https://christopherteixeira.com/project/internal-project/</link>
-      <atom:link href="https://christopherteixeira.com/project/internal-project/index.xml" rel="self" type="application/rss+xml" />
+    <link>/project/internal-project/</link>
+      <atom:link href="/project/internal-project/index.xml" rel="self" type="application/rss+xml" />
     <description>Internal Project</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Christopher Teixeira</copyright><lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://christopherteixeira.com/project/internal-project/featured.jpg</url>
+      <url>/project/internal-project/featured.jpg</url>
       <title>Internal Project</title>
-      <link>https://christopherteixeira.com/project/internal-project/</link>
+      <link>/project/internal-project/</link>
     </image>
     
   </channel>

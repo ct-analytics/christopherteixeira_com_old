@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>AWS | Christopher Teixeira</title>
-    <link>https://christopherteixeira.com/category/aws/</link>
-      <atom:link href="https://christopherteixeira.com/category/aws/index.xml" rel="self" type="application/rss+xml" />
+    <link>/category/aws/</link>
+      <atom:link href="/category/aws/index.xml" rel="self" type="application/rss+xml" />
     <description>AWS</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Christopher Teixeira</copyright><lastBuildDate>Thu, 30 Jul 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://christopherteixeira.com/images/icon_hu720a42e4c39acd29e79ebd4769940488_141053_512x512_fill_lanczos_center_2.png</url>
+      <url>/images/icon_hu720a42e4c39acd29e79ebd4769940488_141053_512x512_fill_lanczos_center_2.png</url>
       <title>AWS</title>
-      <link>https://christopherteixeira.com/category/aws/</link>
+      <link>/category/aws/</link>
     </image>
     
     <item>
       <title>Setting up an email using AWS</title>
-      <link>https://christopherteixeira.com/post/setting-up-an-email-using-aws/</link>
+      <link>/post/setting-up-an-email-using-aws/</link>
       <pubDate>Thu, 30 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>https://christopherteixeira.com/post/setting-up-an-email-using-aws/</guid>
+      <guid>/post/setting-up-an-email-using-aws/</guid>
       <description>&lt;h2 id=&#34;background&#34;&gt;Background&lt;/h2&gt;
 &lt;p&gt;If you haven&amp;rsquo;t followed my other posts, this website was created using 
 &lt;a href=&#34;https://bookdown.org/yihui/blogdown/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;blogdown&lt;/a&gt; in R. While building this site though, I decided to go off track in the tutorial to host it via Amazon Web Services (AWS) via their S3 buckets. It&amp;rsquo;s a pretty straight forward process with a 

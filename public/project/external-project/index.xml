@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>External Project | Christopher Teixeira</title>
-    <link>https://christopherteixeira.com/project/external-project/</link>
-      <atom:link href="https://christopherteixeira.com/project/external-project/index.xml" rel="self" type="application/rss+xml" />
+    <link>/project/external-project/</link>
+      <atom:link href="/project/external-project/index.xml" rel="self" type="application/rss+xml" />
     <description>External Project</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Christopher Teixeira</copyright><lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://christopherteixeira.com/project/external-project/featured.jpg</url>
+      <url>/project/external-project/featured.jpg</url>
       <title>External Project</title>
-      <link>https://christopherteixeira.com/project/external-project/</link>
+      <link>/project/external-project/</link>
     </image>
     
   </channel>
