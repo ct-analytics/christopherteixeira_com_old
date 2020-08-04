@@ -10,7 +10,7 @@ education:
   - course: BSc in Mathematics
     institution: Worcester Polytechnic Institute
     year: 2006
-email: ""
+email: "chris@christopherteixeira.com"
 interests:
 - Data Analytics
 - Applied Statistics
