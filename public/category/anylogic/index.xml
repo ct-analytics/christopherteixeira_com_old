@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>AnyLogic | Christopher Teixeira</title>
+    <link>/category/anylogic/</link>
+      <atom:link href="/category/anylogic/index.xml" rel="self" type="application/rss+xml" />
+    <description>AnyLogic</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Christopher Teixeira</copyright><lastBuildDate>Sat, 01 Aug 2015 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu720a42e4c39acd29e79ebd4769940488_141053_512x512_fill_lanczos_center_2.png</url>
+      <title>AnyLogic</title>
+      <link>/category/anylogic/</link>
+    </image>
+    
+    <item>
+      <title>Financial Metrics Visual Model</title>
+      <link>/project/financial-metrics-visual-model/</link>
+      <pubDate>Sat, 01 Aug 2015 00:00:00 +0000</pubDate>
+      <guid>/project/financial-metrics-visual-model/</guid>
+      <description>&lt;p&gt;The Financial Metrics Visual Model is a tool designed to help MITRE leadership understand the impact of their decisions on high-level MITRE financial metrics. Working with members of the MITRE Finance department, I created a interactive system dynamics model that will allow the user to adjust high level inputs to see how they impact both MITRE financial metrics and other intermediate values used in calculating those metrics.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Strategic Workforce Model</title>
+      <link>/project/strategic-workforce-model/</link>
+      <pubDate>Wed, 01 Jul 2015 00:00:00 +0000</pubDate>
+      <guid>/project/strategic-workforce-model/</guid>
+      <description>&lt;p&gt;The Strategic Workforce Modeling project focuses on hiring goals directors set for their division to project out what their staff will project to be in five years. Working in AnyLogic, I&amp;rsquo;ve updated the Agent Based Model to be more efficient, account for additional staff behavior, and produce data for Tableau. The Tableau workbook blends model outputs together to create a dashboard for directors to understand the impact of their hiring policies and the uncertainty of what their staff levels will look like over the next five years.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

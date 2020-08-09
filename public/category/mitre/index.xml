@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>MITRE | Christopher Teixeira</title>
+    <link>/category/mitre/</link>
+      <atom:link href="/category/mitre/index.xml" rel="self" type="application/rss+xml" />
+    <description>MITRE</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Christopher Teixeira</copyright><lastBuildDate>Mon, 03 Aug 2020 21:03:01 -0400</lastBuildDate>
+    <image>
+      <url>/images/icon_hu720a42e4c39acd29e79ebd4769940488_141053_512x512_fill_lanczos_center_2.png</url>
+      <title>MITRE</title>
+      <link>/category/mitre/</link>
+    </image>
+    
+    <item>
+      <title>COVID-19 Healthcare Coalition</title>
+      <link>/project/c19hcc/</link>
+      <pubDate>Mon, 03 Aug 2020 21:03:01 -0400</pubDate>
+      <guid>/project/c19hcc/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

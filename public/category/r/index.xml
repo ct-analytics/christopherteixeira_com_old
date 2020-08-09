@@ -5,60 +5,65 @@
     <link>/category/r/</link>
       <atom:link href="/category/r/index.xml" rel="self" type="application/rss+xml" />
     <description>R</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Christopher Teixeira</copyright><lastBuildDate>Thu, 23 Jul 2015 21:13:14 -0500</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Christopher Teixeira</copyright><lastBuildDate>Tue, 01 Dec 2015 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>/images/icon_hu720a42e4c39acd29e79ebd4769940488_141053_512x512_fill_lanczos_center_2.png</url>
       <title>R</title>
       <link>/category/r/</link>
     </image>
     
     <item>
-      <title>Hello R Markdown</title>
-      <link>/post/2015-07-23-r-rmarkdown/</link>
-      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
-      <guid>/post/2015-07-23-r-rmarkdown/</guid>
-      <description>
-
-
-&lt;div id=&#34;r-markdown&#34; class=&#34;section level1&#34;&gt;
-&lt;h1&gt;R Markdown&lt;/h1&gt;
-&lt;p&gt;This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see &lt;a href=&#34;http://rmarkdown.rstudio.com&#34; class=&#34;uri&#34;&gt;http://rmarkdown.rstudio.com&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;You can embed an R code chunk like this:&lt;/p&gt;
-&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;summary(cars)
-##      speed           dist       
-##  Min.   : 4.0   Min.   :  2.00  
-##  1st Qu.:12.0   1st Qu.: 26.00  
-##  Median :15.0   Median : 36.00  
-##  Mean   :15.4   Mean   : 42.98  
-##  3rd Qu.:19.0   3rd Qu.: 56.00  
-##  Max.   :25.0   Max.   :120.00
-fit &amp;lt;- lm(dist ~ speed, data = cars)
-fit
-## 
-## Call:
-## lm(formula = dist ~ speed, data = cars)
-## 
-## Coefficients:
-## (Intercept)        speed  
-##     -17.579        3.932&lt;/code&gt;&lt;/pre&gt;
-&lt;/div&gt;
-&lt;div id=&#34;including-plots&#34; class=&#34;section level1&#34;&gt;
-&lt;h1&gt;Including Plots&lt;/h1&gt;
-&lt;p&gt;You can also embed plots. See Figure &lt;a href=&#34;#fig:pie&#34;&gt;1&lt;/a&gt; for example:&lt;/p&gt;
-&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;par(mar = c(0, 1, 0, 1))
-pie(
-  c(280, 60, 20),
-  c(&amp;#39;Sky&amp;#39;, &amp;#39;Sunny side of pyramid&amp;#39;, &amp;#39;Shady side of pyramid&amp;#39;),
-  col = c(&amp;#39;#0292D8&amp;#39;, &amp;#39;#F7EA39&amp;#39;, &amp;#39;#C4B632&amp;#39;),
-  init.angle = -50, border = NA
-)&lt;/code&gt;&lt;/pre&gt;
-&lt;div class=&#34;figure&#34;&gt;&lt;span id=&#34;fig:pie&#34;&gt;&lt;/span&gt;
-&lt;img src=&#34;/post/2015-07-23-r-rmarkdown_files/figure-html/pie-1.png&#34; alt=&#34;A fancy pie chart.&#34; width=&#34;672&#34; /&gt;
-&lt;p class=&#34;caption&#34;&gt;
-Figure 1: A fancy pie chart.
-&lt;/p&gt;
-&lt;/div&gt;
-&lt;/div&gt;
+      <title>Children at Risk Research</title>
+      <link>/project/children-at-risk-research/</link>
+      <pubDate>Tue, 01 Dec 2015 00:00:00 +0000</pubDate>
+      <guid>/project/children-at-risk-research/</guid>
+      <description>&lt;p&gt;The Children at Risk research project looks at which information is important at determining which children under the age of ten are at higher risk for fatality due to abuse and neglect. Leading a small team, we&amp;rsquo;ve collected data from multiple parts of a local Health and Human Services Agency to bring together and understand some of the data quality issues that might exist in other HHS agencies. We use R (specifically the CARET library) to identify which factors are the most important in determining children who are at higher risk due to fatality. Using this information, we hope to design a data visualization tool that will help caseworkers identify those children at higher risk of fatality due to abuse and neglect.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Financial Metrics Visual Model</title>
+      <link>/project/financial-metrics-visual-model/</link>
+      <pubDate>Sat, 01 Aug 2015 00:00:00 +0000</pubDate>
+      <guid>/project/financial-metrics-visual-model/</guid>
+      <description>&lt;p&gt;The Financial Metrics Visual Model is a tool designed to help MITRE leadership understand the impact of their decisions on high-level MITRE financial metrics. Working with members of the MITRE Finance department, I created a interactive system dynamics model that will allow the user to adjust high level inputs to see how they impact both MITRE financial metrics and other intermediate values used in calculating those metrics.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>MLB Player Similarity</title>
+      <link>/project/mlb-player-similarity/</link>
+      <pubDate>Sat, 01 Jun 2013 00:00:00 +0000</pubDate>
+      <guid>/project/mlb-player-similarity/</guid>
+      <description>&lt;p&gt;Using a combination of dynamic programming and social network analysis, I compare a player&amp;rsquo;s career stats against other players to figure out who are the most similar. After determining which players are similar, I use various social network analysis techniques to be able to cluster and categorize players.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Sentiment Analysis for specific Brand/Products</title>
+      <link>/project/sentiment-analysis/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>/project/sentiment-analysis/</guid>
+      <description>&lt;p&gt;Analyze social media (Twitter) to determine sentiment around a client&amp;rsquo;s brand and specific products. Using R, analyzed tweets to determine shifts in sentiment over time about a client&amp;rsquo;s brand and general effectiveness of customer service. Produced visualizations through R and Tableau to help executives understand the sentiment analysis results.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Customer Attrition Analysis</title>
+      <link>/project/customer-attrition-analysis/</link>
+      <pubDate>Sat, 01 Dec 2012 00:00:00 +0000</pubDate>
+      <guid>/project/customer-attrition-analysis/</guid>
+      <description>&lt;p&gt;I worked with team members to build a Bayesian Belief Network (BBN) on large data sources in Netezza to predict the likelihood of a person closing an account with our client. I compared the BBN model results against Logistic Regression to determine best modeling approach. The results showed that the Logistic Regression approach provided more accurate results, but required more resources to get that result.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>JIEDDO - Operations Research and Systems Analysis Support</title>
+      <link>/project/jieddo/</link>
+      <pubDate>Tue, 01 Mar 2011 00:00:00 +0000</pubDate>
+      <guid>/project/jieddo/</guid>
+      <description>&lt;p&gt;I support JIEDDO using various analytical techniques including Analytic Hierarchy Process (AHP) and Regression Analysis. I created and tested a metric to help support decision making for various groups of people working with JIEDDO. I transferred complicated projects in EXCEL and ACCESS to SAS, improving the run-time and product quality. I created SAS Stored Processes to help streamline report generation, support business intelligence, and produce high quality graphics for all customers. I wrote a process to clean raw data and format the data using regular expression parsing on ingest of the data feeds. I integrated a process to parse XML files and create new databases from the results, making new sources of data available for a multitude of colleagues. I designed a database to enhance reporting and help determine an optimal solution to a resource allocation problem.&lt;/p&gt;
+&lt;p&gt;Image: US soldiers examine evidence at an IED training site at the National Training Center at Fort Irwin, California, US.&lt;/p&gt;
 </description>
     </item>
     

@@ -5,7 +5,7 @@
     <link>/tag/mitre/</link>
       <atom:link href="/tag/mitre/index.xml" rel="self" type="application/rss+xml" />
     <description>MITRE</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Christopher Teixeira</copyright><lastBuildDate>Tue, 11 Sep 2018 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Christopher Teixeira</copyright><lastBuildDate>Mon, 03 Aug 2020 21:03:01 -0400</lastBuildDate>
     <image>
       <url>/images/icon_hu720a42e4c39acd29e79ebd4769940488_141053_512x512_fill_lanczos_center_2.png</url>
       <title>MITRE</title>
@@ -13,11 +13,27 @@
     </image>
     
     <item>
+      <title>COVID-19 Healthcare Coalition</title>
+      <link>/project/c19hcc/</link>
+      <pubDate>Mon, 03 Aug 2020 21:03:01 -0400</pubDate>
+      <guid>/project/c19hcc/</guid>
+      <description>&lt;p&gt;For several months, I had the opportunity to support decision makers in understanding the complexity around the evolving COVID-19 pandemic. Under this project, I had the ability to support two distinct efforts.&lt;/p&gt;
+&lt;h3 id=&#34;vulnerable-population-dashboard&#34;&gt;Vulnerable Population Dashboard&lt;/h3&gt;
+&lt;p&gt;Through this effort, I was able to stand up a small team of data analysts, data scientists, and public health experts to take a quick look at how we might be able to define areas of the United States that were vulnerable to the virus. We pulled together several different data sources and used Tableau to allow people to explore the results. This dashboard was publicized by Tableau and is still available to review at 
+&lt;a href=&#34;https://c19hcc.org/resource/vulnerable-population&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://c19hcc.org/resource/vulnerable-population&lt;/a&gt;.&lt;/p&gt;
+&lt;h3 id=&#34;analytics-working-group&#34;&gt;Analytics Working Group&lt;/h3&gt;
+&lt;p&gt;The coalition grew over time to include many organizations, all of which were using data in different ways to support understanding the complexity of the pandemic or support decisions to return to office or normal operations. Each week, I coordinated a series of presentations, conversations, and projects between over 100 organizations. This allowed for a number of organizations to do some incredible analytics that you can find linked through the 
+&lt;a href=&#34;www.c19hcc.org&#34;&gt;main website&lt;/a&gt;. Topics ranged from how to share and discover data between organizations, different approaches to answering a question, and novel ways to visualize and explain complex solutions to the average US citizen.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>State Engagement to Address Opioid Overprescribing and Misuse</title>
       <link>/project/state-engagement-to-address-opioid-overprescribing-and-misuse/</link>
       <pubDate>Tue, 11 Sep 2018 00:00:00 +0000</pubDate>
       <guid>/project/state-engagement-to-address-opioid-overprescribing-and-misuse/</guid>
-      <description>&lt;p&gt;To be filled in later.&lt;/p&gt;
+      <description>&lt;p&gt;As project and technical lead, I oversee the management and technical direction for this project. I work closely with sponsors from the Centers of Medicare and Medicaid Services and New Hampshire State Officials while directing an interdisciplinary team of 30 staff members to achieve the project&amp;rsquo;s outcomes. I had the pleasure of working with a diverse group of individuals, from statisticians and computer scientists, to clinicians and opioid experts, to communications and fraud specialists.&lt;/p&gt;
+&lt;p&gt;This project focused on using data to understand opioid prescribing habits with the goal of being able to identify abnormal prescribing habits. In order to do this, we utilized various analytical techniques from custom heuristics to statistical models to machine learning models. In order for our sponsors to fully utilize the results from the analytical models, we supported the creation of two working groups in New Hampshire. The first group, the Opioid Prescribing Advisory Council, which helps advise the approaches on the analytics and how data is used, but will support New Hampshire in recommending policy changes to curb opioid overprescribing behaviors. The second group, the Program Integrity Task Force, utilizes the results from the analytics to collaborate and reduce opioid overprescribing in the state. Lastly, this project created an interactive dashboard to measure the states progress in reducing opioid overprescribing.&lt;/p&gt;
 </description>
     </item>
     

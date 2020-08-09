@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Data Analytics | Christopher Teixeira</title>
+    <link>/category/data-analytics/</link>
+      <atom:link href="/category/data-analytics/index.xml" rel="self" type="application/rss+xml" />
+    <description>Data Analytics</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Christopher Teixeira</copyright><lastBuildDate>Mon, 03 Aug 2020 21:03:01 -0400</lastBuildDate>
+    <image>
+      <url>/images/icon_hu720a42e4c39acd29e79ebd4769940488_141053_512x512_fill_lanczos_center_2.png</url>
+      <title>Data Analytics</title>
+      <link>/category/data-analytics/</link>
+    </image>
+    
+    <item>
+      <title>COVID-19 Healthcare Coalition</title>
+      <link>/project/c19hcc/</link>
+      <pubDate>Mon, 03 Aug 2020 21:03:01 -0400</pubDate>
+      <guid>/project/c19hcc/</guid>
+      <description>&lt;p&gt;For several months, I had the opportunity to support decision makers in understanding the complexity around the evolving COVID-19 pandemic. Under this project, I had the ability to support two distinct efforts.&lt;/p&gt;
+&lt;h3 id=&#34;vulnerable-population-dashboard&#34;&gt;Vulnerable Population Dashboard&lt;/h3&gt;
+&lt;p&gt;Through this effort, I was able to stand up a small team of data analysts, data scientists, and public health experts to take a quick look at how we might be able to define areas of the United States that were vulnerable to the virus. We pulled together several different data sources and used Tableau to allow people to explore the results. This dashboard was publicized by Tableau and is still available to review at 
+&lt;a href=&#34;https://c19hcc.org/resource/vulnerable-population&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://c19hcc.org/resource/vulnerable-population&lt;/a&gt;.&lt;/p&gt;
+&lt;h3 id=&#34;analytics-working-group&#34;&gt;Analytics Working Group&lt;/h3&gt;
+&lt;p&gt;The coalition grew over time to include many organizations, all of which were using data in different ways to support understanding the complexity of the pandemic or support decisions to return to office or normal operations. Each week, I coordinated a series of presentations, conversations, and projects between over 100 organizations. This allowed for a number of organizations to do some incredible analytics that you can find linked through the 
+&lt;a href=&#34;www.c19hcc.org&#34;&gt;main website&lt;/a&gt;. Topics ranged from how to share and discover data between organizations, different approaches to answering a question, and novel ways to visualize and explain complex solutions to the average US citizen.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>State Engagement to Address Opioid Overprescribing and Misuse</title>
+      <link>/project/state-engagement-to-address-opioid-overprescribing-and-misuse/</link>
+      <pubDate>Tue, 11 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>/project/state-engagement-to-address-opioid-overprescribing-and-misuse/</guid>
+      <description>&lt;p&gt;As project and technical lead, I oversee the management and technical direction for this project. I work closely with sponsors from the Centers of Medicare and Medicaid Services and New Hampshire State Officials while directing an interdisciplinary team of 30 staff members to achieve the project&amp;rsquo;s outcomes. I had the pleasure of working with a diverse group of individuals, from statisticians and computer scientists, to clinicians and opioid experts, to communications and fraud specialists.&lt;/p&gt;
+&lt;p&gt;This project focused on using data to understand opioid prescribing habits with the goal of being able to identify abnormal prescribing habits. In order to do this, we utilized various analytical techniques from custom heuristics to statistical models to machine learning models. In order for our sponsors to fully utilize the results from the analytical models, we supported the creation of two working groups in New Hampshire. The first group, the Opioid Prescribing Advisory Council, which helps advise the approaches on the analytics and how data is used, but will support New Hampshire in recommending policy changes to curb opioid overprescribing behaviors. The second group, the Program Integrity Task Force, utilizes the results from the analytics to collaborate and reduce opioid overprescribing in the state. Lastly, this project created an interactive dashboard to measure the states progress in reducing opioid overprescribing.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Predictive Analytics in Child Welfare</title>
+      <link>/project/predictive-analytics-child-welfare/</link>
+      <pubDate>Mon, 01 Aug 2016 00:00:00 +0000</pubDate>
+      <guid>/project/predictive-analytics-child-welfare/</guid>
+      <description>&lt;p&gt;Lead a small team that interviewed several child welfare agencies to understand their progress in utilizing predictive analytics. This environmental scan resulted in two publicly released documents hosted on the Department of Health and Human Services Assistant Secretary for Planning and Evaluation website.&lt;/p&gt;
+&lt;p&gt;Separately, I led a small team that brought together six government agencies to analyze data around children in foster care to understand how their experiences impact their ability to lead health and independent lives. This involved working directly with a state to obtain and analyze their data using predictive analytics.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Veteran Benefits Administration Command and Control Model</title>
+      <link>/project/vba-command-and-control-model/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/project/vba-command-and-control-model/</guid>
+      <description>&lt;p&gt;Coordinate efforts and approaches between teams to optimize approaches. Advise on the use of data for inputs into a discrete event simulation and the model out visualization.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Strategic Workforce Model</title>
+      <link>/project/strategic-workforce-model/</link>
+      <pubDate>Wed, 01 Jul 2015 00:00:00 +0000</pubDate>
+      <guid>/project/strategic-workforce-model/</guid>
+      <description>&lt;p&gt;The Strategic Workforce Modeling project focuses on hiring goals directors set for their division to project out what their staff will project to be in five years. Working in AnyLogic, I&amp;rsquo;ve updated the Agent Based Model to be more efficient, account for additional staff behavior, and produce data for Tableau. The Tableau workbook blends model outputs together to create a dashboard for directors to understand the impact of their hiring policies and the uncertainty of what their staff levels will look like over the next five years.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>JIEDDO - Operations Research and Systems Analysis Support</title>
+      <link>/project/jieddo/</link>
+      <pubDate>Tue, 01 Mar 2011 00:00:00 +0000</pubDate>
+      <guid>/project/jieddo/</guid>
+      <description>&lt;p&gt;I support JIEDDO using various analytical techniques including Analytic Hierarchy Process (AHP) and Regression Analysis. I created and tested a metric to help support decision making for various groups of people working with JIEDDO. I transferred complicated projects in EXCEL and ACCESS to SAS, improving the run-time and product quality. I created SAS Stored Processes to help streamline report generation, support business intelligence, and produce high quality graphics for all customers. I wrote a process to clean raw data and format the data using regular expression parsing on ingest of the data feeds. I integrated a process to parse XML files and create new databases from the results, making new sources of data available for a multitude of colleagues. I designed a database to enhance reporting and help determine an optimal solution to a resource allocation problem.&lt;/p&gt;
+&lt;p&gt;Image: US soldiers examine evidence at an IED training site at the National Training Center at Fort Irwin, California, US.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

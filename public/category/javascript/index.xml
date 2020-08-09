@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>JavaScript | Christopher Teixeira</title>
+    <link>/category/javascript/</link>
+      <atom:link href="/category/javascript/index.xml" rel="self" type="application/rss+xml" />
+    <description>JavaScript</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Christopher Teixeira</copyright><lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu720a42e4c39acd29e79ebd4769940488_141053_512x512_fill_lanczos_center_2.png</url>
+      <title>JavaScript</title>
+      <link>/category/javascript/</link>
+    </image>
+    
+    <item>
+      <title>Department of Energy Cost and Schedule Tool</title>
+      <link>/project/doe-cost-and-schedule-tool/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>/project/doe-cost-and-schedule-tool/</guid>
+      <description>&lt;p&gt;Developed a discrete simulation model capable of performing lifecycle cost and schedule analysis. This model supports executives that make decisions on alternative strategies which are expected to cost on the order of tens of billions of dollars. The model, built entirely in JavaScript using SIM.JS, allows users to configure the schedule and efficiency of each alternative. After the model completes, results are displayed using a combination of D3 and TimelineJS libraries.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
