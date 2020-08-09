@@ -10,8 +10,12 @@ image:
   focal_point: Smart
 
 tags:
+- GMU
+- Other
+
+categories:
 - Operations Research
-- MLB
+- Java
 
 url_pdf: ""
 

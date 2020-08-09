@@ -10,7 +10,8 @@ image:
   focal_point: Smart
 
 tags:
-- MLB
+- WPI
+- Other
 
 categories: 
 - Statistics

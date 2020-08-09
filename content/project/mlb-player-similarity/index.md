@@ -10,10 +10,11 @@ image:
   focal_point: Smart
 
 tags:
-- MLB
+- Other
 
 categories: 
 - Machine Learning
+- Operations Research
 - R
 
 ---
