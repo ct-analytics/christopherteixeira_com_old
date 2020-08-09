@@ -42,7 +42,7 @@ Aside
 ================================================================================
 
 
-![logo](../../img/Logo/logo-high.png){width=100%}
+![logo](../../img/Logo/logo-high-transparent.png){width=100%}
 
 <br>
 <br>
@@ -52,9 +52,9 @@ Contact {#contact}
 
 
 
-- <i class="fa fa-envelope"></i> feasible.analytics@gmail.com
-- <i class="fa fa-twitter"></i> CT_Analytics
-- <i class="fa fa-github"></i> github.com/ct-analytics
+- <i class="fa fa-envelope"></i> chris@christopherteixeira.com
+- <i class="fa fa-twitter"></i> [CT_Analytics](https://mobile.twitter.com/CT_Analytics)
+- <i class="fa fa-github"></i> [github.com/ct-analytics](https://github.com/ct-analytics)
 - <i class="fa fa-linkedin"></i> [linkedin/in/christopherteixeira](https://www.linkedin.com/in/christopherteixeira/)
 - <i class="fa fa-link"></i> [christopherteixeira.com](http://christopherteixeira.com/)
 
