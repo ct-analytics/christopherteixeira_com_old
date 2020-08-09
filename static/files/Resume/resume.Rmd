@@ -42,7 +42,7 @@ Aside
 ================================================================================
 
 
-![logo](../../img/Logo/logo-high-transparent.png){width=100%}
+![logo](../../img/Logo/logo-high.png){width=100%}
 
 <br>
 <br>

@@ -49,15 +49,15 @@ ggplot(logo,aes(x=x,y=y,color=color)) +
   scale_color_manual(values=c("#CCCCCC","#212529")) +
   theme(
         # Blue
-        # panel.background = element_rect(fill="#0088CC",
-        #                                 color="#0088CC"),
-        # plot.background = element_rect(fill="#0088CC",
-        #                                color="#0088CC"),
+        panel.background = element_rect(fill="#0088CC",
+                                        color="#0088CC"),
+        plot.background = element_rect(fill="#0088CC",
+                                       color="#0088CC"),
         # tranparent
-        panel.background = element_rect(fill="transparent",
-                                        color=NA),
-        plot.background = element_rect(fill="transparent",
-                                       color=NA),
+        # panel.background = element_rect(fill="transparent",
+        #                                 color=NA),
+        # plot.background = element_rect(fill="transparent",
+        #                                color=NA),
         panel.grid = element_blank(),
         axis.text = element_blank(),
         axis.ticks = element_blank(),
