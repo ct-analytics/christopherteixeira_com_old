@@ -8,6 +8,9 @@ date: "2011-03-01T00:00:00Z"
 image:
   caption: Courtesy of JIEDDO
   focal_point: Smart
+  
+authors: 
+- admin
 
 tags:
 - IBM

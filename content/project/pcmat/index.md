@@ -5,6 +5,9 @@ summary: Optimizing allocation of resources to maximize mission success
 
 date: "2008-01-01T00:00:00Z"
 
+authors: 
+- admin
+
 image:
   caption: ""
   focal_point: Smart
@@ -15,8 +18,11 @@ tags:
 
 url_pdf: ""
 
-# todo: add in url to pdf
-# todo: add in link to report to congress
+links:
+- name: Seeking a Human Spaceflight Program Worthy of a Great Nation
+  url: https://www.nasa.gov/pdf/396093main_HSF_Cmte_FinalReport.pdf
+  icon_pack: fas
+  icon: link
 
 ---
 

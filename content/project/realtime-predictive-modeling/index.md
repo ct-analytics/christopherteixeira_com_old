@@ -5,6 +5,9 @@ summary: Design and implement a model to perform real time predictions.
 
 date: "2014-01-01T00:00:00Z"
 
+authors: 
+- admin
+
 image:
   caption: ""
   focal_point: Smart

@@ -5,6 +5,9 @@ summary: Using analytics to determine risk factors associated with child fatalit
 
 date: "2015-12-01T00:00:00Z"
 
+authors: 
+- admin
+
 image:
   caption: "#StopChildAbuse"
   focal_point: Smart

@@ -5,6 +5,9 @@ summary: Predict the next pitch based on pitcher/batter histories.
 
 date: "2017-03-01T00:00:00Z"
 
+authors: 
+- admin
+
 image:
   caption: ""
   focal_point: Smart

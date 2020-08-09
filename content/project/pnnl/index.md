@@ -5,6 +5,9 @@ summary: Simulate port operations to optimize tradeoff between speed and securit
 
 date: "2009-07-01T00:00:00Z"
 
+authors: 
+- admin
+
 image:
   caption: ""
   focal_point: Smart

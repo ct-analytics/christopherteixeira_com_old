@@ -5,6 +5,9 @@ summary: Translating unstructured text to interpret feelings towards a brand.
 
 date: "2013-01-01T00:00:00Z"
 
+authors: 
+- admin
+
 image:
   caption: "Credit - Ron Sela"
   focal_point: Smart

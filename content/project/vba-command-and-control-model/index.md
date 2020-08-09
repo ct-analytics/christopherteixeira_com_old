@@ -5,6 +5,9 @@ summary: Understand bottlenecks and other systemic issues to increase system eff
 
 date: "2016-01-01T00:00:00Z"
 
+authors: 
+- admin
+
 image:
   caption: 
   focal_point: Smart

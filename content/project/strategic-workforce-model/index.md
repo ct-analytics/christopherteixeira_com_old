@@ -5,6 +5,9 @@ summary: Model workforce dynamics to understand different hiring strategies.
 
 date: "2015-07-01T00:00:00Z"
 
+authors: 
+- admin
+
 image:
   caption: ""
   focal_point: Smart

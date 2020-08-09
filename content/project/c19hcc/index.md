@@ -35,6 +35,11 @@ links:
   url: https://c19hcc.org
   icon_pack: fas
   icon: link
+- name: Vulnerable Population Dashboard
+  url: https://c19hcc.org/resource/vulnerable-population
+  icon_pack: fas
+  icon: link
+
 
 url_code: ""
 url_pdf: ""

@@ -5,6 +5,9 @@ summary: Using simple modeling techniques to understand impact to corporate fina
 
 date: "2015-08-01T00:00:00Z"
 
+authors: 
+- admin
+
 image:
   caption: Opioid Pills
   focal_point: Smart

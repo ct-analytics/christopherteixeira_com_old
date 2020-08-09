@@ -5,6 +5,9 @@ summary: Using analytics to understand opioid prescribing behaviors
 
 date: "2006-06-01T00:00:00Z"
 
+authors: 
+- admin
+
 image:
   caption: ""
   focal_point: Smart

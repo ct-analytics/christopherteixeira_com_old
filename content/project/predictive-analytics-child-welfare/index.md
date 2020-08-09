@@ -16,6 +16,15 @@ categories:
 - Machine Learning
 - Data Analytics
 
+authors: 
+- admin
+
+links:
+- name: Website
+  url: https://aspe.hhs.gov/predictive-analytics-child-welfare
+  icon_pack: fas
+  icon: link
+
 # todo: add link to ASPE site
 
 ---

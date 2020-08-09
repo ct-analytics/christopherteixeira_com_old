@@ -5,6 +5,9 @@ summary: Creating fair and equal softball teams
 
 date: "2010-08-01T00:00:00Z"
 
+authors: 
+- admin
+
 image:
   caption: ""
   focal_point: Smart

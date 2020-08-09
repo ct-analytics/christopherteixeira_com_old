@@ -5,6 +5,9 @@ summary: Using machine learning to predict which accounts are likely to be close
 
 date: "2012-12-01T00:00:00Z"
 
+authors: 
+- admin
+
 image:
   caption: ""
   focal_point: Smart

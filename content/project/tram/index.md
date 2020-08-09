@@ -5,6 +5,9 @@ summary: Risk analysis combined with data to protect transit systems.
 
 date: "2006-07-01T00:00:00Z"
 
+authors: 
+- admin
+
 image:
   caption: ""
   focal_point: Smart
@@ -15,8 +18,6 @@ tags:
 categories:
 - Excel
 - Operations Research
-
-# todo: add link to pdf
 
 ---
 

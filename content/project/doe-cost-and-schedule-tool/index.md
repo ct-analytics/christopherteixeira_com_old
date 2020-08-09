@@ -5,6 +5,9 @@ summary: Built a tool to determine changes to cost and schedule
 
 date: "2016-04-27T00:00:00Z"
 
+authors: 
+- admin
+
 image:
   caption: ""
   focal_point: Smart

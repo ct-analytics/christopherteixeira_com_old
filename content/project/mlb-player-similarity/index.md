@@ -5,6 +5,9 @@ summary: Using stats to determine how similar baseball players are to each other
 
 date: "2013-06-01T00:00:00Z"
 
+authors: 
+- admin
+
 image:
   caption: ""
   focal_point: Smart
