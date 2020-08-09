@@ -10,10 +10,12 @@ image:
   focal_point: Smart
 
 tags:
-- Data Analytics
 - MITRE
+
+categories:
 - Data Visualization
 - Operations Research
+- Data Analytics
 
 ---
 

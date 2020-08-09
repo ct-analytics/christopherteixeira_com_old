@@ -10,8 +10,11 @@ image:
   focal_point: Smart
 
 tags:
-- Operations Research
 - SAIC
+
+categories:
+- Operations Research
+
 
 ---
 

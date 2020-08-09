@@ -11,7 +11,11 @@ image:
 
 tags:
 - MITRE
+
+categories: 
 - Data Visualization
+- AnyLogic
+- R
 
 ---
 

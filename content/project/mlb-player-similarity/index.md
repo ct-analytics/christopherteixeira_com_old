@@ -10,8 +10,11 @@ image:
   focal_point: Smart
 
 tags:
-- Machine Learning
 - MLB
+
+categories: 
+- Machine Learning
+- R
 
 ---
 

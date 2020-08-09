@@ -11,7 +11,12 @@ image:
 
 tags:
 - Epsilon
+
+categories: 
 - Machine Learning
+- Netezza
+- R
+
 
 ---
 

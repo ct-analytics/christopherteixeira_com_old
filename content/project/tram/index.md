@@ -10,8 +10,13 @@ image:
   focal_point: Smart
 
 tags:
-- Operations Research
 - SAIC
+
+categories:
+- Excel
+- Operations Research
+
+# todo: add link to pdf
 
 ---
 

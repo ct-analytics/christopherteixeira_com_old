@@ -10,10 +10,15 @@ image:
   focal_point: Smart
 
 tags:
-- Data Analytics
 - IBM
+
+categories: 
 - Data Visualization
 - Operations Research
+- Data Analytics
+- SAS
+- R
+- SQL
 
 ---
 

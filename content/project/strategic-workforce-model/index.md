@@ -10,8 +10,13 @@ image:
   focal_point: Smart
 
 tags:
-- Operations Research
 - MITRE
+
+categories:
+- Operations Research
+- AnyLogic
+- Python
+- Data Analytics
 
 ---
 

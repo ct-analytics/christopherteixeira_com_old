@@ -10,9 +10,13 @@ image:
   focal_point: Smart
 
 tags:
-- Data Analytics
 - MITRE
+
+categories:
 - Machine Learning
+- Data Analytics
+
+# todo: add link to ASPE site
 
 ---
 

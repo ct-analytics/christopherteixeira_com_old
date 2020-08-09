@@ -10,8 +10,15 @@ image:
   focal_point: Smart
 
 tags:
-- Statistics
 - MLB
+
+categories: 
+- Statistics
+- SAS
+
+url_pdf: ""
+
+# todo: add in pdf of paper
 
 ---
 

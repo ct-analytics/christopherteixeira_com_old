@@ -11,7 +11,11 @@ image:
 
 tags:
 - Epsilon
+
+categories:
 - Machine Learning
+- R
+- Tableau
 
 ---
 

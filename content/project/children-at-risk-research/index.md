@@ -11,7 +11,11 @@ image:
 
 tags:
 - MITRE
+
+categories: 
 - Machine Learning
+- R
+
 
 ---
 

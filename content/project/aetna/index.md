@@ -8,8 +8,12 @@ image:
 title: Healthcare Claims Fraud
 summary: Statistical approach to determining regional based fraud in healthcare claims.
 
-# authors: []
-categories: ["Statistics"]
+authors: 
+- admin
+
+categories: 
+- Statistics
+- SAS
 
 tags:
 - IBM

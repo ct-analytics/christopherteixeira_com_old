@@ -13,6 +13,11 @@ tags:
 - Operations Research
 - SAIC
 
+url_pdf: ""
+
+# todo: add in url to pdf
+# todo: add in link to report to congress
+
 ---
 
 Probabilistic Campaign Manifest Analysis Tool (PCMAT) was an excel based tool that would take in a manifest for a lunar campaign and run a simulation to evaluate various metrics about the campaign. I updated and expanded the capabilities of the this tool to track new metrics and increase the number of Bernoulli trials run within the course of a campaign. In addition, I improved the efficiency of the model through VBA and advanced EXCEL worksheet formulas.

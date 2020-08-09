@@ -10,8 +10,13 @@ image:
   focal_point: Smart
 
 tags:
-- MLB
+- Other
+
+categories:
 - Machine Learning
+
+# todo: link posts
+# todo: link github repo?
 
 ---
 

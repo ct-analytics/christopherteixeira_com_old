@@ -10,9 +10,14 @@ image:
   focal_point: Smart
 
 tags:
-- Operations Research
 - MITRE
+
+categories: 
 - Data Visualization
+- JavaScript
+- Operations Research
+- Discrete Event Simulation
+
 
 ---
 
