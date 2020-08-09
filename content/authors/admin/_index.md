@@ -22,7 +22,7 @@ role: Co-Department Head
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:feasibleanalytics@gmail.com'
+  link: 'mailto:chris@christopherteixeira.com'
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/CT_Analytics
