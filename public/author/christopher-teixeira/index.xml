@@ -2,15 +2,366 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Christopher Teixeira</title>
-    <link>/author/christopher-teixeira/</link>
-      <atom:link href="/author/christopher-teixeira/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://christopherteixeira.com/author/christopher-teixeira/</link>
+      <atom:link href="https://christopherteixeira.com/author/christopher-teixeira/index.xml" rel="self" type="application/rss+xml" />
     <description>Christopher Teixeira</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Christopher Teixeira</copyright>
     <image>
-      <url>/images/icon_hu720a42e4c39acd29e79ebd4769940488_141053_512x512_fill_lanczos_center_2.png</url>
+      <url>https://christopherteixeira.com/images/icon_hu910a7331dda2ff3368fc6c9cea07b8f5_648158_512x512_fill_lanczos_center_2.png</url>
       <title>Christopher Teixeira</title>
-      <link>/author/christopher-teixeira/</link>
+      <link>https://christopherteixeira.com/author/christopher-teixeira/</link>
     </image>
+    
+  </channel>
+</rss>
+tle>COVID-19 Healthcare Coalition</title>
+      <link>https://christopherteixeira.com/project/c19hcc/</link>
+      <pubDate>Mon, 03 Aug 2020 21:03:01 -0400</pubDate>
+      <guid>https://christopherteixeira.com/project/c19hcc/</guid>
+      <description>&lt;p&gt;For several months, I had the opportunity to support decision makers in understanding the complexity around the evolving COVID-19 pandemic. Under this project, I had the ability to support two distinct efforts.&lt;/p&gt;
+&lt;h3 id=&#34;vulnerable-population-dashboard&#34;&gt;Vulnerable Population Dashboard&lt;/h3&gt;
+&lt;p&gt;Through this effort, I was able to stand up a small team of data analysts, data scientists, and public health experts to take a quick look at how we might be able to define areas of the United States that were vulnerable to the virus. We pulled together several different data sources and used Tableau to allow people to explore the results. This dashboard was publicized by Tableau and is still available to review at 
+&lt;a href=&#34;https://c19hcc.org/resource/vulnerable-population&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://c19hcc.org/resource/vulnerable-population&lt;/a&gt;.&lt;/p&gt;
+&lt;h3 id=&#34;analytics-working-group&#34;&gt;Analytics Working Group&lt;/h3&gt;
+&lt;p&gt;The coalition grew over time to include many organizations, all of which were using data in different ways to support understanding the complexity of the pandemic or support decisions to return to office or normal operations. Each week, I coordinated a series of presentations, conversations, and projects between over 100 organizations. This allowed for a number of organizations to do some incredible analytics that you can find linked through the 
+&lt;a href=&#34;www.c19hcc.org&#34;&gt;main website&lt;/a&gt;. Topics ranged from how to share and discover data between organizations, different approaches to answering a question, and novel ways to visualize and explain complex solutions to the average US citizen.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Setting up an Email Signature</title>
+      <link>https://christopherteixeira.com/post/signature/setting-up-an-email-signature/</link>
+      <pubDate>Sun, 02 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://christopherteixeira.com/post/signature/setting-up-an-email-signature/</guid>
+      <description>&lt;h2 id=&#34;background&#34;&gt;Background&lt;/h2&gt;
+&lt;p&gt;Email signatures are a great way to personalize your own responses. Many people out there by default say something like &amp;ldquo;Best, John&amp;rdquo; or &amp;ldquo;Regards, Jane&amp;rdquo; which is very respectful, but also plain. If you&amp;rsquo;re trying to make a good first impression with a company or trying to win a contract, a formatted email signature can go a long way.&lt;/p&gt;
+&lt;h2 id=&#34;simple-options&#34;&gt;Simple Options&lt;/h2&gt;
+&lt;p&gt;Not everyone you send an email to will have the ability to render a nicely formatted email signature using HTML, either for security reasons or perhaps due to bandwidth issues. That being said, you can easily organize the content in an email signature in a way that allows someone to read it quickly. First up, determine what you want for content in your signature. These days, we can have mutliple sites or links associated with our lives from social media (e.g., Facebook, Twitter, LinkedIn), professional facing sites (e.g., GitHub, Kaggle), or other miscellaneous ones you might want to show off. I recommend being selective and choosing a set that you want someone on the other end that you want them to potentially see.&lt;/p&gt;
+&lt;p&gt;For simplicity, let&amp;rsquo;s aim at LinkedIn, GitHub, and my website. This allows us to craft a simple looking email that will render in anyone&amp;rsquo;s inbox.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Christopher Teixeira &lt;br&gt;
+christopherteixeira.com &lt;br&gt;
+LinkedIn: linkedin.com/in/christopherteixeira/ &lt;br&gt;
+Twitter: twitter.com/ct_analytics &lt;br&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Simple and readible, yet you can see that with all these links a little HTML will make it even easier for another person to follow you.&lt;/p&gt;
+&lt;h2 id=&#34;html-options&#34;&gt;HTML Options&lt;/h2&gt;
+&lt;p&gt;Before I get in, its important to take note of what email provider and software you use. Not all of them will let you set up an email signature consisting of raw HTML code. Email clients like Gmail will let you format your text (i.e., bold, underline, add an image, etc.) but its not as flexible as you might like. If you&amp;rsquo;re limited by that, then you can just work with the example above to add some formatting.&lt;/p&gt;
+&lt;p&gt;However, I use Spark which gives me the full flexibility of setting up an HTML signature. It&amp;rsquo;s not too hard to craft something using tables and pictures, however, there are some great sites out there that will do the hard work for you. Here&amp;rsquo;s a couple sites to get started with:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.hubspot.com/email-signature-generator&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;HubSpot Email Signature Generator&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://si.gnatu.re/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://si.gnatu.re/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;I ended up using 
+&lt;a href=&#34;https://si.gnatu.re/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://si.gnatu.re/&lt;/a&gt; since it gave me a few more options I liked. However, it&amp;rsquo;s only available to edit for 30 days. If you want to edit it on day 31, you either edit the raw HTML yourself or start from scratch. I recommend pitching in the $5 since this site is incredible. I was able to generate the following signature which I&amp;rsquo;m currently using still:&lt;/p&gt;
+&lt;br&gt;
+&lt;table width=&#34;300&#34; cellspacing=&#34;0&#34; cellpadding=&#34;0&#34; border=&#34;0&#34;&gt;
+  &lt;tr&gt;
+    &lt;td style=&#34;vertical-align:top;padding-right:10px&#34;&gt;
+      &lt;img style=&#34;border:none;&#34;width=&#34;100&#34;src=&#34;https://s1g.s3.amazonaws.com/43c4c2f551be55f253472cb3def28ceb.jpeg&#34;&gt;
+    &lt;/td&gt;
+    &lt;td style=&#34;border-left:solid #000000 2px;&#34; width=&#34;12&#34;&gt;&lt;/td&gt;
+    &lt;td style=&#34;vertical-align: top;text-align:left;color:#212529;font-size:12px;font-family:tahoma;;text-align:left&#34;&gt;
+      &lt;span&gt;
+        &lt;b&gt;
+          &lt;span style=&#34;margin-right:5px;color:#212529;font-size:15px;font-family:tahoma&#34;&gt;Christopher Teixeira&lt;/span&gt;
+        &lt;/b&gt;&lt;br&gt;
+        &lt;span style=&#34;margin-right:5px;color:#212529;font-size:12px;font-family:tahoma&#34;&gt;Using Data for Social Good&lt;/span&gt;
+      &lt;/span&gt;
+      &lt;br&gt;
+      &lt;br&gt;
+      &lt;table cellpadding=&#34;0&#34; cellpadding=&#34;0&#34; border=&#34;0&#34;&gt;
+        &lt;tr&gt;
+          &lt;td style=&#34;padding-right:5px&#34;&gt;
+            &lt;a href=&#34;https://twitter.com/ct_analytics&#34; style=&#34;display: inline-block;&#34;&gt;
+              &lt;img width=&#34;40&#34; height=&#34;40&#34; src=&#34;https://s1g.s3.amazonaws.com/28597d480b109b5483f87cda4245435b.png&#34; alt=&#34;Twitter&#34; style=&#34;border:none;&#34;&gt;
+            &lt;/a&gt;
+          &lt;/td&gt;
+          &lt;td style=&#34;padding-right:5px&#34;&gt;
+            &lt;a href=&#34;https://linkedin.com/in/christopherteixeira&#34; style=&#34;display: inline-block;&#34;&gt;
+              &lt;img width=&#34;40&#34; height=&#34;40&#34; src=&#34;https://s1g.s3.amazonaws.com/affc8f54dec2b8991dc1e982f054d968.png&#34; alt=&#34;LinkedIn (Personal)&#34; style=&#34;border:none;&#34;&gt;
+            &lt;/a&gt;
+          &lt;/td&gt;
+          &lt;td style=&#34;padding-right:5px&#34;&gt;
+            &lt;a href=&#34;https://github.com/ct-analytics&#34; style=&#34;display: inline-block;&#34;&gt;
+              &lt;img width=&#34;40&#34; height=&#34;40&#34; src=&#34;https://s1g.s3.amazonaws.com/cedb8206a2a61cb5489bb6976efedf14.png&#34; alt=&#34;Github&#34; style=&#34;border:none;&#34;&gt;
+            &lt;/a&gt;
+          &lt;/td&gt;
+        &lt;/tr&gt;
+      &lt;/table&gt;
+      &lt;a href=&#34;https://www.christopherteixeira.com&#34; style=&#34;text-decoration:none;color:#0088CC;&#34;&gt;www.christopherteixeira.com&lt;/a&gt;
+    &lt;/td&gt;
+  &lt;/tr&gt;
+&lt;/table&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Setting up an email using AWS</title>
+      <link>https://christopherteixeira.com/post/setting-up-an-email-using-aws/</link>
+      <pubDate>Thu, 30 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://christopherteixeira.com/post/setting-up-an-email-using-aws/</guid>
+      <description>&lt;h2 id=&#34;background&#34;&gt;Background&lt;/h2&gt;
+&lt;p&gt;If you haven&amp;rsquo;t followed my other posts, this website was created using 
+&lt;a href=&#34;https://bookdown.org/yihui/blogdown/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;blogdown&lt;/a&gt; in R. While building this site though, I decided to go off track in the tutorial to host it via Amazon Web Services (AWS) via their S3 buckets. It&amp;rsquo;s a pretty straight forward process with a 
+&lt;a href=&#34;https://docs.aws.amazon.com/AmazonS3/latest/dev/WebsiteHosting.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;detailed tutorial&lt;/a&gt; on hosting a static website.&lt;/p&gt;
+&lt;p&gt;What was less straight forward was setting up an email address to use with this website. This post will outline the major steps I took and aim at providing others with tips to follow for creating a professional email address to go with your website.&lt;/p&gt;
+&lt;h2 id=&#34;getting-the-email-address&#34;&gt;Getting the email address&lt;/h2&gt;
+&lt;p&gt;If you followed the tutorial for setting up a static website, then you not only have a public S3 bucket, but also a domain registered using Route 53 or a similar service. The next step is to explore AWS Simple Email Service or SES. Like other AWS services, you can do this via the AWS CLI tools or their browser. I used their browser interface for this but replicated the steps using CLI just to see if it felt any easier.&lt;/p&gt;
+&lt;p&gt;If you follow the AWS tutorials like 
+&lt;a href=&#34;https://aws.amazon.com/getting-started/hands-on/send-an-email/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;this one&lt;/a&gt;, it sounds incredibly simple: just create one, verify it, and open your email client to receive it. However, in order to verify your email you first need to have the ability to receive and store emails that by default won&amp;rsquo;t be available with a custom email. I did this inside another S3 bucket but you can do this in a number of ways.&lt;/p&gt;
+&lt;p&gt;Before you actually create the email, you need a rule set for receiving the email. This 
+&lt;a href=&#34;https://docs.aws.amazon.com/ses/latest/DeveloperGuide/receiving-email-receipt-rules.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;page&lt;/a&gt; details gives you the steps and tips to consider. For me, it was simple enough to just list the domain as a recipient and determine the specific email later.&lt;/p&gt;
+&lt;p&gt;Finally, you&amp;rsquo;re ready to verify the email. This requires setting up the email, clicking verify, going to the folder you identified in the corresponding S3 bucket, and making sure a file appeared there. If it did, then you can open and copy+paste the link into your browser to finish verifying the email address.&lt;/p&gt;
+&lt;h2 id=&#34;using-your-email-address&#34;&gt;Using your email address&lt;/h2&gt;
+&lt;p&gt;By default, this email address you just created is in the AWS SES sandbox. You can email anyone you have verified in here but for most practical purposes this won&amp;rsquo;t be sufficient. I want to be able to email anyone from this address using something like Spark. The next step is then to file a support ticket to do this. This 
+&lt;a href=&#34;https://docs.aws.amazon.com/ses/latest/DeveloperGuide/request-production-access.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;page&lt;/a&gt; gives you the details and I found it incredibly quick (about 10 hours) for them to review and approve this transaction.&lt;/p&gt;
+&lt;p&gt;Next step is to set up credentials for an SMTP server so you can retrieve and send emails using something other than AWS. This 
+&lt;a href=&#34;https://docs.aws.amazon.com/ses/latest/DeveloperGuide/smtp-credentials.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;page&lt;/a&gt; outlines the steps for getting your credentials. This is a key step, do not lose those credentials!&lt;/p&gt;
+&lt;p&gt;Various email clients and services might have slightly different steps, but I like using Spark for managing my many inboxes. They give you several options, from setting up a new 
+&lt;a href=&#34;https://sparkmailapp.com/help/141-add-more-email-accounts-to-spark.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;inbox&lt;/a&gt; to setting up an 
+&lt;a href=&#34;https://sparkmailapp.com/help/154-set-up-an-email-alias.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;alias&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Once that&amp;rsquo;s completed, you should be good to start sending emails! However, receiving emails is a slightly different story. Having the SMTP is only part of the answer as you&amp;rsquo;ll see. Receiving emails from unverified email addresses requires an extra step that requires setting up a function to forward incoming emails to the email associated with your alias. Luckily, this website outlines it all for you so head over to the traveling squid and read his posts 
+&lt;a href=&#34;https://thetravellingsquid.com/2019/05/27/send-emails-with-gmail-using-amazon-simple-email-service/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;part 1&lt;/a&gt; and 
+&lt;a href=&#34;https://thetravellingsquid.com/2019/05/30/domain-specific-email-on-gmail-with-amazon-ses/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;part 2&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Next post will be around setting up a professional looking signature for your email.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>An example preprint / working paper</title>
+      <link>https://christopherteixeira.com/publication/preprint/</link>
+      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>https://christopherteixeira.com/publication/preprint/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Supplementary notes can be added here, including 
+&lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>State Engagement to Address Opioid Overprescribing and Misuse</title>
+      <link>https://christopherteixeira.com/project/state-engagement-to-address-opioid-overprescribing-and-misuse/</link>
+      <pubDate>Tue, 11 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>https://christopherteixeira.com/project/state-engagement-to-address-opioid-overprescribing-and-misuse/</guid>
+      <description>&lt;p&gt;As project and technical lead, I oversee the management and technical direction for this project. I work closely with sponsors from the Centers of Medicare and Medicaid Services and New Hampshire State Officials while directing an interdisciplinary team of 30 staff members to achieve the project&amp;rsquo;s outcomes. I had the pleasure of working with a diverse group of individuals, from statisticians and computer scientists, to clinicians and opioid experts, to communications and fraud specialists.&lt;/p&gt;
+&lt;p&gt;This project focused on using data to understand opioid prescribing habits with the goal of being able to identify abnormal prescribing habits. In order to do this, we utilized various analytical techniques from custom heuristics to statistical models to machine learning models. In order for our sponsors to fully utilize the results from the analytical models, we supported the creation of two working groups in New Hampshire. The first group, the Opioid Prescribing Advisory Council, which helps advise the approaches on the analytics and how data is used, but will support New Hampshire in recommending policy changes to curb opioid overprescribing behaviors. The second group, the Program Integrity Task Force, utilizes the results from the analytics to collaborate and reduce opioid overprescribing in the state. Lastly, this project created an interactive dashboard to measure the states progress in reducing opioid overprescribing.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Predicting Pitch Types</title>
+      <link>https://christopherteixeira.com/project/predicting-pitch-types/</link>
+      <pubDate>Wed, 01 Mar 2017 00:00:00 +0000</pubDate>
+      <guid>https://christopherteixeira.com/project/predicting-pitch-types/</guid>
+      <description>&lt;p&gt;TruMedia Networks sponsored their 2nd Baseball Analytics Hackathon to bring together some of sport&amp;rsquo;s brightest developers and analysts to see what projects and analysis they can create. Providing pitch data over the previous three years, I took the opportunity to explore the ability to predict the next pitch type. The link for this project walks through my analysis in R using a multinomial logistic regression model to predict pitch types for Jon Lester.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Predictive Analytics in Child Welfare</title>
+      <link>https://christopherteixeira.com/project/predictive-analytics-child-welfare/</link>
+      <pubDate>Mon, 01 Aug 2016 00:00:00 +0000</pubDate>
+      <guid>https://christopherteixeira.com/project/predictive-analytics-child-welfare/</guid>
+      <description>&lt;p&gt;Lead a small team that interviewed several child welfare agencies to understand their progress in utilizing predictive analytics. This environmental scan resulted in two publicly released documents hosted on the Department of Health and Human Services Assistant Secretary for Planning and Evaluation website.&lt;/p&gt;
+&lt;p&gt;Separately, I led a small team that brought together six government agencies to analyze data around children in foster care to understand how their experiences impact their ability to lead health and independent lives. This involved working directly with a state to obtain and analyze their data using predictive analytics.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Department of Energy Cost and Schedule Tool</title>
+      <link>https://christopherteixeira.com/project/doe-cost-and-schedule-tool/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://christopherteixeira.com/project/doe-cost-and-schedule-tool/</guid>
+      <description>&lt;p&gt;Developed a discrete simulation model capable of performing lifecycle cost and schedule analysis. This model supports executives that make decisions on alternative strategies which are expected to cost on the order of tens of billions of dollars. The model, built entirely in JavaScript using SIM.JS, allows users to configure the schedule and efficiency of each alternative. After the model completes, results are displayed using a combination of D3 and TimelineJS libraries.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Veteran Benefits Administration Command and Control Model</title>
+      <link>https://christopherteixeira.com/project/vba-command-and-control-model/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://christopherteixeira.com/project/vba-command-and-control-model/</guid>
+      <description>&lt;p&gt;Coordinate efforts and approaches between teams to optimize approaches. Advise on the use of data for inputs into a discrete event simulation and the model out visualization.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Children at Risk Research</title>
+      <link>https://christopherteixeira.com/project/children-at-risk-research/</link>
+      <pubDate>Tue, 01 Dec 2015 00:00:00 +0000</pubDate>
+      <guid>https://christopherteixeira.com/project/children-at-risk-research/</guid>
+      <description>&lt;p&gt;The Children at Risk research project looks at which information is important at determining which children under the age of ten are at higher risk for fatality due to abuse and neglect. Leading a small team, we&amp;rsquo;ve collected data from multiple parts of a local Health and Human Services Agency to bring together and understand some of the data quality issues that might exist in other HHS agencies. We use R (specifically the CARET library) to identify which factors are the most important in determining children who are at higher risk due to fatality. Using this information, we hope to design a data visualization tool that will help caseworkers identify those children at higher risk of fatality due to abuse and neglect.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>An example journal article</title>
+      <link>https://christopherteixeira.com/publication/journal-article/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      <guid>https://christopherteixeira.com/publication/journal-article/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Supplementary notes can be added here, including 
+&lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Financial Metrics Visual Model</title>
+      <link>https://christopherteixeira.com/project/financial-metrics-visual-model/</link>
+      <pubDate>Sat, 01 Aug 2015 00:00:00 +0000</pubDate>
+      <guid>https://christopherteixeira.com/project/financial-metrics-visual-model/</guid>
+      <description>&lt;p&gt;The Financial Metrics Visual Model is a tool designed to help MITRE leadership understand the impact of their decisions on high-level MITRE financial metrics. Working with members of the MITRE Finance department, I created a interactive system dynamics model that will allow the user to adjust high level inputs to see how they impact both MITRE financial metrics and other intermediate values used in calculating those metrics.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Strategic Workforce Model</title>
+      <link>https://christopherteixeira.com/project/strategic-workforce-model/</link>
+      <pubDate>Wed, 01 Jul 2015 00:00:00 +0000</pubDate>
+      <guid>https://christopherteixeira.com/project/strategic-workforce-model/</guid>
+      <description>&lt;p&gt;The Strategic Workforce Modeling project focuses on hiring goals directors set for their division to project out what their staff will project to be in five years. Working in AnyLogic, I&amp;rsquo;ve updated the Agent Based Model to be more efficient, account for additional staff behavior, and produce data for Tableau. The Tableau workbook blends model outputs together to create a dashboard for directors to understand the impact of their hiring policies and the uncertainty of what their staff levels will look like over the next five years.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Real Time Predictive Modeling</title>
+      <link>https://christopherteixeira.com/project/realtime-predictive-modeling/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://christopherteixeira.com/project/realtime-predictive-modeling/</guid>
+      <description>&lt;p&gt;Worked directly with a client to design data sources that allow for real time modeling and scoring. Led a team of statisticians to consolidate knowledge and design best practices in advanced modeling techniques for near real time model building.&lt;/p&gt;
+&lt;p&gt;Designed a methodology to detect and predict client behavior patterns. Results of this methodology are intended to influence real time marketing decisions to improve response rates.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>An example conference paper</title>
+      <link>https://christopherteixeira.com/publication/conference-paper/</link>
+      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
+      <guid>https://christopherteixeira.com/publication/conference-paper/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Supplementary notes can be added here, including 
+&lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>MLB Player Similarity</title>
+      <link>https://christopherteixeira.com/project/mlb-player-similarity/</link>
+      <pubDate>Sat, 01 Jun 2013 00:00:00 +0000</pubDate>
+      <guid>https://christopherteixeira.com/project/mlb-player-similarity/</guid>
+      <description>&lt;p&gt;Using a combination of dynamic programming and social network analysis, I compare a player&amp;rsquo;s career stats against other players to figure out who are the most similar. After determining which players are similar, I use various social network analysis techniques to be able to cluster and categorize players.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Sentiment Analysis for specific Brand/Products</title>
+      <link>https://christopherteixeira.com/project/sentiment-analysis/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://christopherteixeira.com/project/sentiment-analysis/</guid>
+      <description>&lt;p&gt;Analyze social media (Twitter) to determine sentiment around a client&amp;rsquo;s brand and specific products. Using R, analyzed tweets to determine shifts in sentiment over time about a client&amp;rsquo;s brand and general effectiveness of customer service. Produced visualizations through R and Tableau to help executives understand the sentiment analysis results.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Customer Attrition Analysis</title>
+      <link>https://christopherteixeira.com/project/customer-attrition-analysis/</link>
+      <pubDate>Sat, 01 Dec 2012 00:00:00 +0000</pubDate>
+      <guid>https://christopherteixeira.com/project/customer-attrition-analysis/</guid>
+      <description>&lt;p&gt;I worked with team members to build a Bayesian Belief Network (BBN) on large data sources in Netezza to predict the likelihood of a person closing an account with our client. I compared the BBN model results against Logistic Regression to determine best modeling approach. The results showed that the Logistic Regression approach provided more accurate results, but required more resources to get that result.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>JIEDDO - Operations Research and Systems Analysis Support</title>
+      <link>https://christopherteixeira.com/project/jieddo/</link>
+      <pubDate>Tue, 01 Mar 2011 00:00:00 +0000</pubDate>
+      <guid>https://christopherteixeira.com/project/jieddo/</guid>
+      <description>&lt;p&gt;I support JIEDDO using various analytical techniques including Analytic Hierarchy Process (AHP) and Regression Analysis. I created and tested a metric to help support decision making for various groups of people working with JIEDDO. I transferred complicated projects in EXCEL and ACCESS to SAS, improving the run-time and product quality. I created SAS Stored Processes to help streamline report generation, support business intelligence, and produce high quality graphics for all customers. I wrote a process to clean raw data and format the data using regular expression parsing on ingest of the data feeds. I integrated a process to parse XML files and create new databases from the results, making new sources of data available for a multitude of colleagues. I designed a database to enhance reporting and help determine an optimal solution to a resource allocation problem.&lt;/p&gt;
+&lt;p&gt;Image: US soldiers examine evidence at an IED training site at the National Training Center at Fort Irwin, California, US.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Healthcare Claims Fraud</title>
+      <link>https://christopherteixeira.com/project/aetna/</link>
+      <pubDate>Mon, 01 Nov 2010 00:00:00 +0000</pubDate>
+      <guid>https://christopherteixeira.com/project/aetna/</guid>
+      <description>&lt;p&gt;Worked with a team to determine the best use of IBM’s analytical skills to help Aetna improve their business. Modified a SAS multiplicative regression model to be more flexible with data and improve efficiency. Determine the important factors in improving care management efficiency for existing programs at Aetna.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Optimizing Team Assignments</title>
+      <link>https://christopherteixeira.com/project/nvss/</link>
+      <pubDate>Sun, 01 Aug 2010 00:00:00 +0000</pubDate>
+      <guid>https://christopherteixeira.com/project/nvss/</guid>
+      <description>&lt;p&gt;The teams in the Northern Virginia Senior Softball (NVSS) league are reorganized every year with the desire to make them as even as possible and promote social interactions. This project’s goals were to develop a methodology to produce team assignments for players such that the teams are equal in regards to player ability and other attributes. Multiple regression was employed to obtain offensive, defensive, and team metrics. An integer program (IP) model was developed where constraints were aligned with the goals of the NVSS league to solve the assignment problem. The IP model was linked to a team assignment tool which allows the user to select settings and parameters before running the model.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Port Operations Analysis for PNNL</title>
+      <link>https://christopherteixeira.com/project/pnnl/</link>
+      <pubDate>Wed, 01 Jul 2009 00:00:00 +0000</pubDate>
+      <guid>https://christopherteixeira.com/project/pnnl/</guid>
+      <description>&lt;p&gt;Using AnyLogic to build a combined Discrete Event / Agent Based model to determine the effects of introducing delays to a seaport&amp;rsquo;s operations. Build reports given the results of a sensitivity analysis or Monte Carlo run version of the model. Compiled an applet version of the model and combined with an HTML interface to supply to the customer.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>NASA - Probabilistic Campaign Manifest Analysis Tool</title>
+      <link>https://christopherteixeira.com/project/pcmat/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>https://christopherteixeira.com/project/pcmat/</guid>
+      <description>&lt;p&gt;Probabilistic Campaign Manifest Analysis Tool (PCMAT) was an excel based tool that would take in a manifest for a lunar campaign and run a simulation to evaluate various metrics about the campaign. I updated and expanded the capabilities of the this tool to track new metrics and increase the number of Bernoulli trials run within the course of a campaign. In addition, I improved the efficiency of the model through VBA and advanced EXCEL worksheet formulas.&lt;/p&gt;
+&lt;p&gt;Our team&amp;rsquo;s effort on this work was acknowledged in the &amp;ldquo;&lt;a href=&#34;http://www.nasa.gov/pdf/396093main_HSF_Cmte_FinalReport.pdf&#34;&gt;SEEKING A HUMAN SPACEFLIGHT PROGRAM WORTHY OF A GREAT NATION&lt;/a&gt;&amp;rdquo; report to Congress.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Transit Risk and Assessment Methodology</title>
+      <link>https://christopherteixeira.com/project/tram/</link>
+      <pubDate>Sat, 01 Jul 2006 00:00:00 +0000</pubDate>
+      <guid>https://christopherteixeira.com/project/tram/</guid>
+      <description>&lt;p&gt;Served as the data manager for analysis of counter-terrorism defense measures in place for several mass transit systems under the Transit Risk Assessment Module (TRAM). Assisted in recording data at meetings and on-site visits. Track changes to and finalize documents for delivery to the customer. Performed cost-benefit analysis (CBA) for several jurisdictions using the Risk Management Tool (RMT). Prepared materials for TRAM workshops and adjusted data during the workshops to provide accurate results. Aided as the CBA specialist during the TRAM workshops. Instructed on proper use of the RMT software.&lt;/p&gt;
+&lt;p&gt;Updated the TRAM methodology to include multi-hazards and aggregated decision tactics. Built the new methodology into EXCEL through worksheet functions and VBA.&lt;/p&gt;
+&lt;p&gt;Using specific projects developed by Port Authority of New York and New Jersey (PANYNJ), adjusted pieces of the risk formula and calculated a ten year lifecycle cost in order to analyze and update the priority of projects to be implemented. Developed a specialized toolkit in EXCEL to run a cost benefit analysis and select optimal points using a pareto frontier.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Statistical Analysis of Defensive Production in Major League Baseball</title>
+      <link>https://christopherteixeira.com/project/mqp/</link>
+      <pubDate>Thu, 01 Jun 2006 00:00:00 +0000</pubDate>
+      <guid>https://christopherteixeira.com/project/mqp/</guid>
+      <description>&lt;p&gt;While many statistical measures have been devised to measure team and player performance in professional baseball, relatively little work has been done to study and improve measures of defensive performance. This project’s goals were to model defensive contribution to team performance and develop related measures of individual player defensive production. Factor analysis was employed to extract positional factors and combine them with pitching and offensive measures into a final logistic regression model to determine effects of defense on team performance.&lt;/p&gt;
+</description>
+    </item>
     
   </channel>
 </rss>

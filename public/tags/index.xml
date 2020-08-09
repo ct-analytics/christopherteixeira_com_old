@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags | Christopher Teixeira</title>
-    <link>/tags/</link>
-      <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://christopherteixeira.com/tags/</link>
+      <atom:link href="https://christopherteixeira.com/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Christopher Teixeira</copyright><lastBuildDate>Mon, 03 Aug 2020 21:03:01 -0400</lastBuildDate>
     <image>
-      <url>/images/icon_hu720a42e4c39acd29e79ebd4769940488_141053_512x512_fill_lanczos_center_2.png</url>
+      <url>https://christopherteixeira.com/images/icon_hu910a7331dda2ff3368fc6c9cea07b8f5_648158_512x512_fill_lanczos_center_2.png</url>
       <title>Tags</title>
-      <link>/tags/</link>
+      <link>https://christopherteixeira.com/tags/</link>
     </image>
     
   </channel>

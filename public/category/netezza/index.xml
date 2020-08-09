@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Netezza | Christopher Teixeira</title>
-    <link>/category/netezza/</link>
-      <atom:link href="/category/netezza/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://christopherteixeira.com/category/netezza/</link>
+      <atom:link href="https://christopherteixeira.com/category/netezza/index.xml" rel="self" type="application/rss+xml" />
     <description>Netezza</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Christopher Teixeira</copyright><lastBuildDate>Sat, 01 Dec 2012 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hu720a42e4c39acd29e79ebd4769940488_141053_512x512_fill_lanczos_center_2.png</url>
+      <url>https://christopherteixeira.com/images/icon_hu910a7331dda2ff3368fc6c9cea07b8f5_648158_512x512_fill_lanczos_center_2.png</url>
       <title>Netezza</title>
-      <link>/category/netezza/</link>
+      <link>https://christopherteixeira.com/category/netezza/</link>
     </image>
     
     <item>
       <title>Customer Attrition Analysis</title>
-      <link>/project/customer-attrition-analysis/</link>
+      <link>https://christopherteixeira.com/project/customer-attrition-analysis/</link>
       <pubDate>Sat, 01 Dec 2012 00:00:00 +0000</pubDate>
-      <guid>/project/customer-attrition-analysis/</guid>
+      <guid>https://christopherteixeira.com/project/customer-attrition-analysis/</guid>
       <description>&lt;p&gt;I worked with team members to build a Bayesian Belief Network (BBN) on large data sources in Netezza to predict the likelihood of a person closing an account with our client. I compared the BBN model results against Logistic Regression to determine best modeling approach. The results showed that the Logistic Regression approach provided more accurate results, but required more resources to get that result.&lt;/p&gt;
 </description>
     </item>

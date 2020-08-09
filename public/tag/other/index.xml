@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Other | Christopher Teixeira</title>
-    <link>/tag/other/</link>
-      <atom:link href="/tag/other/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://christopherteixeira.com/tag/other/</link>
+      <atom:link href="https://christopherteixeira.com/tag/other/index.xml" rel="self" type="application/rss+xml" />
     <description>Other</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Christopher Teixeira</copyright><lastBuildDate>Sun, 02 Aug 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hu720a42e4c39acd29e79ebd4769940488_141053_512x512_fill_lanczos_center_2.png</url>
+      <url>https://christopherteixeira.com/images/icon_hu910a7331dda2ff3368fc6c9cea07b8f5_648158_512x512_fill_lanczos_center_2.png</url>
       <title>Other</title>
-      <link>/tag/other/</link>
+      <link>https://christopherteixeira.com/tag/other/</link>
     </image>
     
     <item>
       <title>Setting up an Email Signature</title>
-      <link>/post/setting-up-an-email-signature/</link>
+      <link>https://christopherteixeira.com/post/signature/setting-up-an-email-signature/</link>
       <pubDate>Sun, 02 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>/post/setting-up-an-email-signature/</guid>
+      <guid>https://christopherteixeira.com/post/signature/setting-up-an-email-signature/</guid>
       <description>&lt;h2 id=&#34;background&#34;&gt;Background&lt;/h2&gt;
 &lt;p&gt;Email signatures are a great way to personalize your own responses. Many people out there by default say something like &amp;ldquo;Best, John&amp;rdquo; or &amp;ldquo;Regards, Jane&amp;rdquo; which is very respectful, but also plain. If you&amp;rsquo;re trying to make a good first impression with a company or trying to win a contract, a formatted email signature can go a long way.&lt;/p&gt;
 &lt;h2 id=&#34;simple-options&#34;&gt;Simple Options&lt;/h2&gt;
@@ -84,9 +84,9 @@ Twitter: twitter.com/ct_analytics &lt;br&gt;&lt;/p&gt;
     
     <item>
       <title>Setting up an email using AWS</title>
-      <link>/post/setting-up-an-email-using-aws/</link>
+      <link>https://christopherteixeira.com/post/setting-up-an-email-using-aws/</link>
       <pubDate>Thu, 30 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>/post/setting-up-an-email-using-aws/</guid>
+      <guid>https://christopherteixeira.com/post/setting-up-an-email-using-aws/</guid>
       <description>&lt;h2 id=&#34;background&#34;&gt;Background&lt;/h2&gt;
 &lt;p&gt;If you haven&amp;rsquo;t followed my other posts, this website was created using 
 &lt;a href=&#34;https://bookdown.org/yihui/blogdown/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;blogdown&lt;/a&gt; in R. While building this site though, I decided to go off track in the tutorial to host it via Amazon Web Services (AWS) via their S3 buckets. It&amp;rsquo;s a pretty straight forward process with a 
@@ -116,10 +116,37 @@ Twitter: twitter.com/ct_analytics &lt;br&gt;&lt;/p&gt;
     
     <item>
       <title>Predicting Pitch Types</title>
-      <link>/project/predicting-pitch-types/</link>
+      <link>https://christopherteixeira.com/project/predicting-pitch-types/</link>
       <pubDate>Wed, 01 Mar 2017 00:00:00 +0000</pubDate>
-      <guid>/project/predicting-pitch-types/</guid>
+      <guid>https://christopherteixeira.com/project/predicting-pitch-types/</guid>
       <description>&lt;p&gt;TruMedia Networks sponsored their 2nd Baseball Analytics Hackathon to bring together some of sport&amp;rsquo;s brightest developers and analysts to see what projects and analysis they can create. Providing pitch data over the previous three years, I took the opportunity to explore the ability to predict the next pitch type. The link for this project walks through my analysis in R using a multinomial logistic regression model to predict pitch types for Jon Lester.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>MLB Player Similarity</title>
+      <link>https://christopherteixeira.com/project/mlb-player-similarity/</link>
+      <pubDate>Sat, 01 Jun 2013 00:00:00 +0000</pubDate>
+      <guid>https://christopherteixeira.com/project/mlb-player-similarity/</guid>
+      <description>&lt;p&gt;Using a combination of dynamic programming and social network analysis, I compare a player&amp;rsquo;s career stats against other players to figure out who are the most similar. After determining which players are similar, I use various social network analysis techniques to be able to cluster and categorize players.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Optimizing Team Assignments</title>
+      <link>https://christopherteixeira.com/project/nvss/</link>
+      <pubDate>Sun, 01 Aug 2010 00:00:00 +0000</pubDate>
+      <guid>https://christopherteixeira.com/project/nvss/</guid>
+      <description>&lt;p&gt;The teams in the Northern Virginia Senior Softball (NVSS) league are reorganized every year with the desire to make them as even as possible and promote social interactions. This project’s goals were to develop a methodology to produce team assignments for players such that the teams are equal in regards to player ability and other attributes. Multiple regression was employed to obtain offensive, defensive, and team metrics. An integer program (IP) model was developed where constraints were aligned with the goals of the NVSS league to solve the assignment problem. The IP model was linked to a team assignment tool which allows the user to select settings and parameters before running the model.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Statistical Analysis of Defensive Production in Major League Baseball</title>
+      <link>https://christopherteixeira.com/project/mqp/</link>
+      <pubDate>Thu, 01 Jun 2006 00:00:00 +0000</pubDate>
+      <guid>https://christopherteixeira.com/project/mqp/</guid>
+      <description>&lt;p&gt;While many statistical measures have been devised to measure team and player performance in professional baseball, relatively little work has been done to study and improve measures of defensive performance. This project’s goals were to model defensive contribution to team performance and develop related measures of individual player defensive production. Factor analysis was employed to extract positional factors and combine them with pitching and offensive measures into a final logistic regression model to determine effects of defense on team performance.&lt;/p&gt;
 </description>
     </item>
     

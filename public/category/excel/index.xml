@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Excel | Christopher Teixeira</title>
-    <link>/category/excel/</link>
-      <atom:link href="/category/excel/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://christopherteixeira.com/category/excel/</link>
+      <atom:link href="https://christopherteixeira.com/category/excel/index.xml" rel="self" type="application/rss+xml" />
     <description>Excel</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Christopher Teixeira</copyright><lastBuildDate>Sat, 01 Jul 2006 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hu720a42e4c39acd29e79ebd4769940488_141053_512x512_fill_lanczos_center_2.png</url>
+      <url>https://christopherteixeira.com/images/icon_hu910a7331dda2ff3368fc6c9cea07b8f5_648158_512x512_fill_lanczos_center_2.png</url>
       <title>Excel</title>
-      <link>/category/excel/</link>
+      <link>https://christopherteixeira.com/category/excel/</link>
     </image>
     
     <item>
       <title>Transit Risk and Assessment Methodology</title>
-      <link>/project/tram/</link>
+      <link>https://christopherteixeira.com/project/tram/</link>
       <pubDate>Sat, 01 Jul 2006 00:00:00 +0000</pubDate>
-      <guid>/project/tram/</guid>
+      <guid>https://christopherteixeira.com/project/tram/</guid>
       <description>&lt;p&gt;Served as the data manager for analysis of counter-terrorism defense measures in place for several mass transit systems under the Transit Risk Assessment Module (TRAM). Assisted in recording data at meetings and on-site visits. Track changes to and finalize documents for delivery to the customer. Performed cost-benefit analysis (CBA) for several jurisdictions using the Risk Management Tool (RMT). Prepared materials for TRAM workshops and adjusted data during the workshops to provide accurate results. Aided as the CBA specialist during the TRAM workshops. Instructed on proper use of the RMT software.&lt;/p&gt;
 &lt;p&gt;Updated the TRAM methodology to include multi-hazards and aggregated decision tactics. Built the new methodology into EXCEL through worksheet functions and VBA.&lt;/p&gt;
 &lt;p&gt;Using specific projects developed by Port Authority of New York and New Jersey (PANYNJ), adjusted pieces of the risk formula and calculated a ten year lifecycle cost in order to analyze and update the priority of projects to be implemented. Developed a specialized toolkit in EXCEL to run a cost benefit analysis and select optimal points using a pareto frontier.&lt;/p&gt;

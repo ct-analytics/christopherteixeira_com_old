@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>SQL | Christopher Teixeira</title>
-    <link>/category/sql/</link>
-      <atom:link href="/category/sql/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://christopherteixeira.com/category/sql/</link>
+      <atom:link href="https://christopherteixeira.com/category/sql/index.xml" rel="self" type="application/rss+xml" />
     <description>SQL</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Christopher Teixeira</copyright><lastBuildDate>Tue, 01 Mar 2011 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hu720a42e4c39acd29e79ebd4769940488_141053_512x512_fill_lanczos_center_2.png</url>
+      <url>https://christopherteixeira.com/images/icon_hu910a7331dda2ff3368fc6c9cea07b8f5_648158_512x512_fill_lanczos_center_2.png</url>
       <title>SQL</title>
-      <link>/category/sql/</link>
+      <link>https://christopherteixeira.com/category/sql/</link>
     </image>
     
     <item>
       <title>JIEDDO - Operations Research and Systems Analysis Support</title>
-      <link>/project/jieddo/</link>
+      <link>https://christopherteixeira.com/project/jieddo/</link>
       <pubDate>Tue, 01 Mar 2011 00:00:00 +0000</pubDate>
-      <guid>/project/jieddo/</guid>
+      <guid>https://christopherteixeira.com/project/jieddo/</guid>
       <description>&lt;p&gt;I support JIEDDO using various analytical techniques including Analytic Hierarchy Process (AHP) and Regression Analysis. I created and tested a metric to help support decision making for various groups of people working with JIEDDO. I transferred complicated projects in EXCEL and ACCESS to SAS, improving the run-time and product quality. I created SAS Stored Processes to help streamline report generation, support business intelligence, and produce high quality graphics for all customers. I wrote a process to clean raw data and format the data using regular expression parsing on ingest of the data feeds. I integrated a process to parse XML files and create new databases from the results, making new sources of data available for a multitude of colleagues. I designed a database to enhance reporting and help determine an optimal solution to a resource allocation problem.&lt;/p&gt;
 &lt;p&gt;Image: US soldiers examine evidence at an IED training site at the National Training Center at Fort Irwin, California, US.&lt;/p&gt;
 </description>

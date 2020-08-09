@@ -3,446 +3,447 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/courses/example/example1/</loc>
+    <loc>https://christopherteixeira.com/courses/example/example1/</loc>
     <lastmod>2020-07-26T19:00:32-04:00</lastmod>
   </url>
   
   <url>
-    <loc>/courses/example/</loc>
+    <loc>https://christopherteixeira.com/courses/example/</loc>
     <lastmod>2020-07-26T19:00:32-04:00</lastmod>
   </url>
   
   <url>
-    <loc>/courses/example/example2/</loc>
+    <loc>https://christopherteixeira.com/courses/example/example2/</loc>
     <lastmod>2020-07-26T19:00:32-04:00</lastmod>
   </url>
   
   <url>
-    <loc>/</loc>
-    <lastmod>2020-08-03T21:03:01-04:00</lastmod>
+    <loc>https://christopherteixeira.com/</loc>
+    <lastmod>2020-08-09T18:53:00-04:00</lastmod>
   </url>
   
   <url>
-    <loc>/talk/example/</loc>
+    <loc>https://christopherteixeira.com/talk/example/</loc>
     <lastmod>2020-07-26T19:00:32-04:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/</loc>
-    <lastmod>2020-08-03T21:03:01-04:00</lastmod>
+    <loc>https://christopherteixeira.com/authors/</loc>
+    <lastmod>2020-08-09T18:53:00-04:00</lastmod>
   </url>
   
   <url>
-    <loc>/categories/</loc>
-    <lastmod>2020-08-03T21:03:01-04:00</lastmod>
+    <loc>https://christopherteixeira.com/categories/</loc>
+    <lastmod>2020-08-09T18:32:44-04:00</lastmod>
   </url>
   
   <url>
-    <loc>/project/c19hcc/</loc>
-    <lastmod>2020-08-03T21:03:01-04:00</lastmod>
+    <loc>https://christopherteixeira.com/project/c19hcc/</loc>
+    <lastmod>2020-08-09T18:32:44-04:00</lastmod>
   </url>
   
   <url>
-    <loc>/category/data-analytics/</loc>
-    <lastmod>2020-08-03T21:03:01-04:00</lastmod>
+    <loc>https://christopherteixeira.com/category/data-analytics/</loc>
+    <lastmod>2020-08-09T18:32:44-04:00</lastmod>
   </url>
   
   <url>
-    <loc>/category/machine-learning/</loc>
-    <lastmod>2020-08-03T21:03:01-04:00</lastmod>
+    <loc>https://christopherteixeira.com/category/machine-learning/</loc>
+    <lastmod>2020-08-09T18:32:44-04:00</lastmod>
   </url>
   
   <url>
-    <loc>/tag/mitre/</loc>
-    <lastmod>2020-08-03T21:03:01-04:00</lastmod>
+    <loc>https://christopherteixeira.com/tag/mitre/</loc>
+    <lastmod>2020-08-09T18:32:44-04:00</lastmod>
   </url>
   
   <url>
-    <loc>/project/</loc>
-    <lastmod>2020-08-03T21:03:01-04:00</lastmod>
+    <loc>https://christopherteixeira.com/project/</loc>
+    <lastmod>2020-08-09T18:32:44-04:00</lastmod>
   </url>
   
   <url>
-    <loc>/category/tableau/</loc>
-    <lastmod>2020-08-03T21:03:01-04:00</lastmod>
+    <loc>https://christopherteixeira.com/category/tableau/</loc>
+    <lastmod>2020-08-09T18:32:44-04:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/</loc>
-    <lastmod>2020-08-03T21:03:01-04:00</lastmod>
+    <loc>https://christopherteixeira.com/tags/</loc>
+    <lastmod>2020-08-09T18:53:00-04:00</lastmod>
   </url>
   
   <url>
-    <loc>/tag/other/</loc>
-    <lastmod>2020-08-02T19:36:56-04:00</lastmod>
+    <loc>https://christopherteixeira.com/tag/other/</loc>
+    <lastmod>2020-08-09T18:53:00-04:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/setting-up-an-email-signature/</loc>
-    <lastmod>2020-08-02T19:36:56-04:00</lastmod>
+    <loc>https://christopherteixeira.com/post/signature/setting-up-an-email-signature/</loc>
+    <lastmod>2020-08-09T18:53:00-04:00</lastmod>
   </url>
   
   <url>
-    <loc>/category/aws/</loc>
+    <loc>https://christopherteixeira.com/category/aws/</loc>
     <lastmod>2020-08-02T18:58:14-04:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/setting-up-an-email-using-aws/</loc>
+    <loc>https://christopherteixeira.com/post/setting-up-an-email-using-aws/</loc>
     <lastmod>2020-08-02T18:58:14-04:00</lastmod>
   </url>
   
   <url>
-    <loc>/tag/r/</loc>
+    <loc>https://christopherteixeira.com/tag/r/</loc>
     <lastmod>2020-07-30T18:25:08-04:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/mlb_player_similarity/20191113_mlb_player_similarity_3/</loc>
+    <loc>https://christopherteixeira.com/post/mlb_player_similarity/20191113_mlb_player_similarity_3/</loc>
     <lastmod>2020-07-30T18:25:08-04:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/mlb_player_similarity/20191110_mlb_player_similarity_2/</loc>
+    <loc>https://christopherteixeira.com/post/mlb_player_similarity/20191110_mlb_player_similarity_2/</loc>
     <lastmod>2020-07-30T18:25:08-04:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/mlb_player_similarity/20191108_mlb_player_similarity_1/</loc>
+    <loc>https://christopherteixeira.com/post/mlb_player_similarity/20191108_mlb_player_similarity_1/</loc>
     <lastmod>2020-07-30T18:25:08-04:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/writing-technical-content/</loc>
+    <loc>https://christopherteixeira.com/post/writing-technical-content/</loc>
     <lastmod>2020-07-30T18:21:56-04:00</lastmod>
   </url>
   
   <url>
-    <loc>/publication-type/3/</loc>
+    <loc>https://christopherteixeira.com/publication-type/3/</loc>
     <lastmod>2020-07-26T19:00:32-04:00</lastmod>
   </url>
   
   <url>
-    <loc>/publication/preprint/</loc>
+    <loc>https://christopherteixeira.com/publication/preprint/</loc>
     <lastmod>2020-07-26T19:00:32-04:00</lastmod>
   </url>
   
   <url>
-    <loc>/publication_types/</loc>
+    <loc>https://christopherteixeira.com/publication_types/</loc>
     <lastmod>2020-07-26T19:00:32-04:00</lastmod>
   </url>
   
   <url>
-    <loc>/tag/source-themes/</loc>
+    <loc>https://christopherteixeira.com/tag/source-themes/</loc>
     <lastmod>2020-07-26T19:00:32-04:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/jupyter/</loc>
+    <loc>https://christopherteixeira.com/post/jupyter/</loc>
     <lastmod>2020-07-30T18:21:56-04:00</lastmod>
   </url>
   
   <url>
-    <loc>/slides/</loc>
+    <loc>https://christopherteixeira.com/slides/</loc>
     <lastmod>2020-07-26T19:00:32-04:00</lastmod>
   </url>
   
   <url>
-    <loc>/slides/example/</loc>
+    <loc>https://christopherteixeira.com/slides/example/</loc>
     <lastmod>2020-07-26T19:00:32-04:00</lastmod>
   </url>
   
   <url>
-    <loc>/category/data-visualization/</loc>
-    <lastmod>2020-07-29T22:53:41-04:00</lastmod>
+    <loc>https://christopherteixeira.com/category/data-visualization/</loc>
+    <lastmod>2020-08-09T18:32:44-04:00</lastmod>
   </url>
   
   <url>
-    <loc>/project/state-engagement-to-address-opioid-overprescribing-and-misuse/</loc>
-    <lastmod>2020-07-29T22:53:41-04:00</lastmod>
+    <loc>https://christopherteixeira.com/project/state-engagement-to-address-opioid-overprescribing-and-misuse/</loc>
+    <lastmod>2020-08-09T18:32:44-04:00</lastmod>
   </url>
   
   <url>
-    <loc>/privacy/</loc>
-    <lastmod>2020-07-26T19:00:32-04:00</lastmod>
+    <loc>https://christopherteixeira.com/project/predicting-pitch-types/</loc>
+    <lastmod>2020-08-09T18:32:44-04:00</lastmod>
   </url>
   
   <url>
-    <loc>/terms/</loc>
-    <lastmod>2020-07-26T19:00:32-04:00</lastmod>
+    <loc>https://christopherteixeira.com/project/predictive-analytics-child-welfare/</loc>
+    <lastmod>2020-08-09T18:32:44-04:00</lastmod>
   </url>
   
   <url>
-    <loc>/project/predicting-pitch-types/</loc>
-    <lastmod>2020-07-29T22:53:41-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/project/predictive-analytics-child-welfare/</loc>
-    <lastmod>2020-07-29T22:53:41-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/deep-learning/</loc>
+    <loc>https://christopherteixeira.com/tag/deep-learning/</loc>
     <lastmod>2020-07-29T22:55:09-04:00</lastmod>
   </url>
   
   <url>
-    <loc>/tag/demo/</loc>
+    <loc>https://christopherteixeira.com/tag/demo/</loc>
     <lastmod>2020-07-29T22:55:09-04:00</lastmod>
   </url>
   
   <url>
-    <loc>/project/doe-cost-and-schedule-tool/</loc>
-    <lastmod>2020-07-29T22:53:41-04:00</lastmod>
+    <loc>https://christopherteixeira.com/project/doe-cost-and-schedule-tool/</loc>
+    <lastmod>2020-08-09T18:32:44-04:00</lastmod>
   </url>
   
   <url>
-    <loc>/category/discrete-event-simulation/</loc>
-    <lastmod>2020-07-29T22:53:41-04:00</lastmod>
+    <loc>https://christopherteixeira.com/category/discrete-event-simulation/</loc>
+    <lastmod>2020-08-09T18:32:44-04:00</lastmod>
   </url>
   
   <url>
-    <loc>/project/external-project/</loc>
+    <loc>https://christopherteixeira.com/project/external-project/</loc>
     <lastmod>2020-07-29T22:55:09-04:00</lastmod>
   </url>
   
   <url>
-    <loc>/project/internal-project/</loc>
+    <loc>https://christopherteixeira.com/project/internal-project/</loc>
     <lastmod>2020-07-29T22:55:09-04:00</lastmod>
   </url>
   
   <url>
-    <loc>/category/javascript/</loc>
-    <lastmod>2020-07-29T22:53:41-04:00</lastmod>
+    <loc>https://christopherteixeira.com/category/javascript/</loc>
+    <lastmod>2020-08-09T18:32:44-04:00</lastmod>
   </url>
   
   <url>
-    <loc>/category/operations-research/</loc>
-    <lastmod>2020-07-29T22:53:41-04:00</lastmod>
+    <loc>https://christopherteixeira.com/category/operations-research/</loc>
+    <lastmod>2020-08-09T18:32:44-04:00</lastmod>
   </url>
   
   <url>
-    <loc>/tag/academic/</loc>
+    <loc>https://christopherteixeira.com/tag/academic/</loc>
     <lastmod>2020-07-30T18:21:56-04:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/getting-started/</loc>
+    <loc>https://christopherteixeira.com/post/getting-started/</loc>
     <lastmod>2020-07-30T18:21:56-04:00</lastmod>
   </url>
   
   <url>
-    <loc>/category/demo/</loc>
+    <loc>https://christopherteixeira.com/category/demo/</loc>
     <lastmod>2020-07-30T18:21:56-04:00</lastmod>
   </url>
   
   <url>
-    <loc>/author/%E5%90%B3%E6%81%A9%E9%81%94/</loc>
+    <loc>https://christopherteixeira.com/author/%E5%90%B3%E6%81%A9%E9%81%94/</loc>
     <lastmod>2020-07-30T18:21:56-04:00</lastmod>
   </url>
   
   <url>
-    <loc>/tag/%E5%BC%80%E6%BA%90/</loc>
+    <loc>https://christopherteixeira.com/tag/%E5%BC%80%E6%BA%90/</loc>
     <lastmod>2020-07-30T18:21:56-04:00</lastmod>
   </url>
   
   <url>
-    <loc>/category/%E6%95%99%E7%A8%8B/</loc>
+    <loc>https://christopherteixeira.com/category/%E6%95%99%E7%A8%8B/</loc>
     <lastmod>2020-07-30T18:21:56-04:00</lastmod>
   </url>
   
   <url>
-    <loc>/project/vba-command-and-control-model/</loc>
-    <lastmod>2020-07-29T22:53:41-04:00</lastmod>
+    <loc>https://christopherteixeira.com/project/vba-command-and-control-model/</loc>
+    <lastmod>2020-08-09T18:32:44-04:00</lastmod>
   </url>
   
   <url>
-    <loc>/project/children-at-risk-research/</loc>
-    <lastmod>2020-07-29T22:53:41-04:00</lastmod>
+    <loc>https://christopherteixeira.com/project/children-at-risk-research/</loc>
+    <lastmod>2020-08-09T18:32:44-04:00</lastmod>
   </url>
   
   <url>
-    <loc>/category/r/</loc>
-    <lastmod>2020-07-29T22:53:41-04:00</lastmod>
+    <loc>https://christopherteixeira.com/category/r/</loc>
+    <lastmod>2020-08-09T18:32:44-04:00</lastmod>
   </url>
   
   <url>
-    <loc>/publication-type/2/</loc>
+    <loc>https://christopherteixeira.com/publication-type/2/</loc>
     <lastmod>2020-07-26T19:00:32-04:00</lastmod>
   </url>
   
   <url>
-    <loc>/publication/journal-article/</loc>
+    <loc>https://christopherteixeira.com/publication/journal-article/</loc>
     <lastmod>2020-07-26T19:00:32-04:00</lastmod>
   </url>
   
   <url>
-    <loc>/author/robert-ford/</loc>
+    <loc>https://christopherteixeira.com/author/robert-ford/</loc>
     <lastmod>2020-07-26T19:00:32-04:00</lastmod>
   </url>
   
   <url>
-    <loc>/category/anylogic/</loc>
-    <lastmod>2020-07-29T22:53:41-04:00</lastmod>
+    <loc>https://christopherteixeira.com/category/anylogic/</loc>
+    <lastmod>2020-08-09T18:32:44-04:00</lastmod>
   </url>
   
   <url>
-    <loc>/project/financial-metrics-visual-model/</loc>
-    <lastmod>2020-07-29T22:53:41-04:00</lastmod>
+    <loc>https://christopherteixeira.com/project/financial-metrics-visual-model/</loc>
+    <lastmod>2020-08-09T18:32:44-04:00</lastmod>
   </url>
   
   <url>
-    <loc>/category/python/</loc>
-    <lastmod>2020-07-29T22:53:41-04:00</lastmod>
+    <loc>https://christopherteixeira.com/category/python/</loc>
+    <lastmod>2020-08-09T18:32:44-04:00</lastmod>
   </url>
   
   <url>
-    <loc>/project/strategic-workforce-model/</loc>
-    <lastmod>2020-07-29T22:53:41-04:00</lastmod>
+    <loc>https://christopherteixeira.com/project/strategic-workforce-model/</loc>
+    <lastmod>2020-08-09T18:32:44-04:00</lastmod>
   </url>
   
   <url>
-    <loc>/tag/epsilon/</loc>
-    <lastmod>2020-07-29T22:53:41-04:00</lastmod>
+    <loc>https://christopherteixeira.com/tag/epsilon/</loc>
+    <lastmod>2020-08-09T18:32:44-04:00</lastmod>
   </url>
   
   <url>
-    <loc>/project/realtime-predictive-modeling/</loc>
-    <lastmod>2020-07-29T22:53:41-04:00</lastmod>
+    <loc>https://christopherteixeira.com/project/realtime-predictive-modeling/</loc>
+    <lastmod>2020-08-09T18:32:44-04:00</lastmod>
   </url>
   
   <url>
-    <loc>/publication-type/1/</loc>
+    <loc>https://christopherteixeira.com/publication-type/1/</loc>
     <lastmod>2020-07-26T19:00:32-04:00</lastmod>
   </url>
   
   <url>
-    <loc>/publication/conference-paper/</loc>
+    <loc>https://christopherteixeira.com/publication/conference-paper/</loc>
     <lastmod>2020-07-26T19:00:32-04:00</lastmod>
   </url>
   
   <url>
-    <loc>/tag/mlb/</loc>
-    <lastmod>2020-07-29T22:53:41-04:00</lastmod>
+    <loc>https://christopherteixeira.com/project/mlb-player-similarity/</loc>
+    <lastmod>2020-08-09T18:32:44-04:00</lastmod>
   </url>
   
   <url>
-    <loc>/project/mlb-player-similarity/</loc>
-    <lastmod>2020-07-29T22:53:41-04:00</lastmod>
+    <loc>https://christopherteixeira.com/project/sentiment-analysis/</loc>
+    <lastmod>2020-08-09T18:32:44-04:00</lastmod>
   </url>
   
   <url>
-    <loc>/project/sentiment-analysis/</loc>
-    <lastmod>2020-07-29T22:53:41-04:00</lastmod>
+    <loc>https://christopherteixeira.com/project/customer-attrition-analysis/</loc>
+    <lastmod>2020-08-09T18:32:44-04:00</lastmod>
   </url>
   
   <url>
-    <loc>/project/customer-attrition-analysis/</loc>
-    <lastmod>2020-07-29T22:53:41-04:00</lastmod>
+    <loc>https://christopherteixeira.com/category/netezza/</loc>
+    <lastmod>2020-08-09T18:32:44-04:00</lastmod>
   </url>
   
   <url>
-    <loc>/category/netezza/</loc>
-    <lastmod>2020-07-29T22:53:41-04:00</lastmod>
+    <loc>https://christopherteixeira.com/tag/ibm/</loc>
+    <lastmod>2020-08-09T18:32:44-04:00</lastmod>
   </url>
   
   <url>
-    <loc>/tag/ibm/</loc>
-    <lastmod>2020-07-29T22:53:41-04:00</lastmod>
+    <loc>https://christopherteixeira.com/project/jieddo/</loc>
+    <lastmod>2020-08-09T18:32:44-04:00</lastmod>
   </url>
   
   <url>
-    <loc>/project/jieddo/</loc>
-    <lastmod>2020-07-29T22:53:41-04:00</lastmod>
+    <loc>https://christopherteixeira.com/category/sas/</loc>
+    <lastmod>2020-08-09T18:32:44-04:00</lastmod>
   </url>
   
   <url>
-    <loc>/category/sas/</loc>
-    <lastmod>2020-07-29T22:53:41-04:00</lastmod>
+    <loc>https://christopherteixeira.com/category/sql/</loc>
+    <lastmod>2020-08-09T18:32:44-04:00</lastmod>
   </url>
   
   <url>
-    <loc>/category/sql/</loc>
-    <lastmod>2020-07-29T22:53:41-04:00</lastmod>
+    <loc>https://christopherteixeira.com/project/aetna/</loc>
+    <lastmod>2020-08-09T18:32:44-04:00</lastmod>
   </url>
   
   <url>
-    <loc>/project/aetna/</loc>
-    <lastmod>2020-07-29T22:53:41-04:00</lastmod>
+    <loc>https://christopherteixeira.com/category/statistics/</loc>
+    <lastmod>2020-08-09T18:32:44-04:00</lastmod>
   </url>
   
   <url>
-    <loc>/category/statistics/</loc>
-    <lastmod>2020-07-29T22:53:41-04:00</lastmod>
+    <loc>https://christopherteixeira.com/tag/gmu/</loc>
+    <lastmod>2020-08-09T18:32:44-04:00</lastmod>
   </url>
   
   <url>
-    <loc>/tag/operations-research/</loc>
-    <lastmod>2020-07-29T22:53:41-04:00</lastmod>
+    <loc>https://christopherteixeira.com/category/java/</loc>
+    <lastmod>2020-08-09T18:32:44-04:00</lastmod>
   </url>
   
   <url>
-    <loc>/project/nvss/</loc>
-    <lastmod>2020-07-29T22:53:41-04:00</lastmod>
+    <loc>https://christopherteixeira.com/project/nvss/</loc>
+    <lastmod>2020-08-09T18:32:44-04:00</lastmod>
   </url>
   
   <url>
-    <loc>/project/pnnl/</loc>
-    <lastmod>2020-07-29T22:53:41-04:00</lastmod>
+    <loc>https://christopherteixeira.com/project/pnnl/</loc>
+    <lastmod>2020-08-09T18:32:44-04:00</lastmod>
   </url>
   
   <url>
-    <loc>/tag/saic/</loc>
-    <lastmod>2020-07-29T22:53:41-04:00</lastmod>
+    <loc>https://christopherteixeira.com/tag/saic/</loc>
+    <lastmod>2020-08-09T18:32:44-04:00</lastmod>
   </url>
   
   <url>
-    <loc>/project/pcmat/</loc>
-    <lastmod>2020-07-29T22:53:41-04:00</lastmod>
+    <loc>https://christopherteixeira.com/project/pcmat/</loc>
+    <lastmod>2020-08-09T18:32:44-04:00</lastmod>
   </url>
   
   <url>
-    <loc>/category/excel/</loc>
-    <lastmod>2020-07-29T22:53:41-04:00</lastmod>
+    <loc>https://christopherteixeira.com/tag/operations-research/</loc>
+    <lastmod>2020-08-09T18:32:44-04:00</lastmod>
   </url>
   
   <url>
-    <loc>/project/tram/</loc>
-    <lastmod>2020-07-29T22:53:41-04:00</lastmod>
+    <loc>https://christopherteixeira.com/category/excel/</loc>
+    <lastmod>2020-08-09T18:32:44-04:00</lastmod>
   </url>
   
   <url>
-    <loc>/project/mqp/</loc>
-    <lastmod>2020-07-29T22:53:41-04:00</lastmod>
+    <loc>https://christopherteixeira.com/project/tram/</loc>
+    <lastmod>2020-08-09T18:32:44-04:00</lastmod>
   </url>
   
   <url>
-    <loc>/author/christopher-teixeira/</loc>
-    <lastmod>2020-08-03T20:48:35-04:00</lastmod>
+    <loc>https://christopherteixeira.com/project/mqp/</loc>
+    <lastmod>2020-08-09T18:32:44-04:00</lastmod>
   </url>
   
   <url>
-    <loc>/author/christopher-teixeira/</loc>
+    <loc>https://christopherteixeira.com/tag/wpi/</loc>
+    <lastmod>2020-08-09T18:32:44-04:00</lastmod>
   </url>
   
   <url>
-    <loc>/courses/</loc>
+    <loc>https://christopherteixeira.com/author/christopher-teixeira/</loc>
+    <lastmod>2020-08-08T21:04:01-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://christopherteixeira.com/author/christopher-teixeira/</loc>
+    <lastmod>2020-08-08T21:04:13-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://christopherteixeira.com/courses/</loc>
     <lastmod>2020-07-26T19:00:32-04:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/</loc>
+    <loc>https://christopherteixeira.com/post/</loc>
     <lastmod>2020-07-26T19:00:32-04:00</lastmod>
   </url>
   
   <url>
-    <loc>/publication/</loc>
+    <loc>https://christopherteixeira.com/publication/</loc>
     <lastmod>2020-07-26T19:00:32-04:00</lastmod>
   </url>
   
   <url>
-    <loc>/talk/</loc>
+    <loc>https://christopherteixeira.com/talk/</loc>
     <lastmod>2020-07-26T19:00:32-04:00</lastmod>
   </url>
   
