@@ -6,7 +6,7 @@ active = true  # Activate this widget? true/false
 weight = 65  # Order that this section will appear.
 
 title = "Projects"
-subtitle = ""
+subtitle = "This list of projects represents the details of my experience across my career and how I supported customers' decision making on complex challenges."
 
 [content]
   # Page type to display. E.g. project.
@@ -39,7 +39,7 @@ subtitle = ""
 
   [[content.filter_button]]
     name = "SAIC"
-    tag = "MITRE"
+    tag = "SAIC"
     
   [[content.filter_button]]
     name = "Other"
