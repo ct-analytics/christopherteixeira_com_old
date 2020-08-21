@@ -3,19 +3,29 @@ title: Setting up an Email Signature
 author: Christopher Teixeira
 date: '2020-08-02'
 slug: setting-up-an-email-signature
-categories: []
+categories: 
+- HTML
+
 tags:
   - Other
+
 subtitle: ''
+
 summary: 'It takes some consideration to determine what you put into an email signature but there are some great services out there to help.'
-authors: [admin]
+
+authors: 
+- admin
+
 lastmod: '2020-08-02T18:00:49-04:00'
+
 featured: no
+
 image:
   caption: ''
   focal_point: ''
   preview_only: no
-projects: []
+projects: 
+- website
 ---
 
 ## Background
