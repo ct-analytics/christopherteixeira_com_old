@@ -2,8 +2,28 @@
 title: "Similar Players in MLB"
 author: "Christopher Teixeira"
 date: 2019-11-08
-categories: []
-tags: ["R"]
+categories: 
+- R
+
+tags: 
+- MLB
+- Other
+
+summary: 'An introduction to some thoughts on using data and analytics for determining player similarity in Major League Baseball.'
+
+authors: 
+- admin
+
+lastmod: '2020-08-02T18:00:49-04:00'
+
+featured: no
+
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: no
+projects: 
+- mlb-player-similarity
 ---
 
 ```{r global_options, include=FALSE}
