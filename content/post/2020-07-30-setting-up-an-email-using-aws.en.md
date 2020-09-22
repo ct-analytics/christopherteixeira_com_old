@@ -1,22 +1,32 @@
 ---
-title: Setting up an email using AWS
+title: Setting up a personal email using AWS
 author: Christopher Teixeira
 date: '2020-07-30'
-slug: setting-up-an-email-using-aws
+slug: setting-up-a-personal-email-using-aws
 categories:
-  - AWS
+- AWS
+
 tags:
-  - Other
+- Other
+
 subtitle: ''
+
 summary: It's not straight forward to set up a professional email using AWS and another email client.
-authors: [admin]
+
+authors: 
+- admin
+
 lastmod: '2020-07-30T18:27:20-04:00'
+
 featured: no
+
 image:
   caption: ''
   focal_point: ''
   preview_only: no
-projects: []
+
+projects: 
+- website
 ---
 
 ## Background
