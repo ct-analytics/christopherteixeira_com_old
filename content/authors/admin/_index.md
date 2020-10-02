@@ -18,7 +18,7 @@ interests:
 organizations:
 - name: The MITRE Corporation
   url: "www.mitre.org"
-role: Co-Department Head
+role: Acting Department Head
 social:
 - icon: envelope
   icon_pack: fas
