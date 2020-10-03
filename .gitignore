@@ -5,3 +5,6 @@
 .DS_Store
 public/
 resources/
+themes/hugo-academic/.DS_Store
+themes/.DS_Store
+layouts/.DS_Store
