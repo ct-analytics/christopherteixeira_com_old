@@ -24,7 +24,8 @@ copyright = "&copy; 2020 Christopher Teixeira"
 ############################
 
 # Name of Academic theme folder in `themes/`.
-theme = "hugo-academic"
+# theme = "hugo-academic"
+theme = "wowchemy-hugo-modules"
 
 # Get last modified date for content from Git?
 enableGitInfo = true
