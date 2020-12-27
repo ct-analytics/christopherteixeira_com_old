@@ -18,7 +18,7 @@ interests:
 organizations:
 - name: The MITRE Corporation
   url: "www.mitre.org"
-role: Acting Department Head
+role: Principal Data Scientist
 social:
 - icon: envelope
   icon_pack: fas
